@@ -5,11 +5,7 @@ Documentation       Testataan dokumentaatiota
 Library    SeleniumLibrary
 
 *** Variables ***
-<<<<<<< HEAD
 ${URL}     https://moodle.eoppimispalvelut.fi/
-=======
-${URL}    https://google.com
->>>>>>> 94637f5 (alkuvalmisteluja)
 
 *** Keywords ***
 Kirjaudu moodleen
