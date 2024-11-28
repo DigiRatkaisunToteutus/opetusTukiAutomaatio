@@ -1,0 +1,1 @@
+Tässä hakemistossa on erilaisia kokeiluja. Eivät välttämättä toimi ja ovat usein kesken. Tätä voi käyttää esimerkkien tekoon ja jakamiseen muille.
