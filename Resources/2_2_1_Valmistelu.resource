@@ -3,6 +3,8 @@ Documentation       Testataan dokumentaatiota
 
 *** Settings ***
 Library    SeleniumLibrary
+
+*** Variables ***
 ${URL}     https://moodle.eoppimispalvelut.fi/
 
 *** Keywords ***
