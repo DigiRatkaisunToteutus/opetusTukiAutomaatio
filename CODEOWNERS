@@ -1,0 +1,4 @@
+# Define Code Owners for specific directories
+/Automation/ @Integrointi
+/Resources/ @Integrointi
+/Specification/ @Integrointi

@@ -18,6 +18,3 @@ ${URL}    https://moodle.eoppimispalvelut.fi/
     2_2_1_6 kopioi tiedot arviointityökirjaan ryhmien tiedot-välilehdelle
     2_2_1_7 Vie sähköpostiosoitteet välilehdille "RyhmäOsioArviointi" ja "KOONTI"
 
-
-    
-

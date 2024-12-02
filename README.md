@@ -26,6 +26,6 @@ Nopeasti kasaan kyhätty rakenne joka toivottavasti tukee toimintaa riittäväst
 
 # Mitä täydessä askeleen toteutus kommitissa on?
 * automation-kansioon: robotti tai sen muutos
-* specification-kansioon: työnkulun kuvausta
+* specification-kansioon: työnkulun kuvausta sen verran kuin on tarpeen
 * resources-kansioon: avainsanat joita käytätte omissa roboteissanne. 
 
