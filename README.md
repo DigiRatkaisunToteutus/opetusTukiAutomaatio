@@ -24,6 +24,9 @@ Nopeasti kasaan kyhätty rakenne joka toivottavasti tukee toimintaa riittäväst
 * examples
     * Tähän kansioon voidaan tehdä erilaisia esimerkkejä robot frameworkin käytöstä. Tässä voidaan myös selvitellä ongelmia. Eli tähän voi tuoda toimimattomia robotteja jotta minä tai kollegat voivat asiaa selvitellä omissa ympäristöissään. 
 
+* static_pages
+    * Sisältää tallennettuja www-sivuja moodlen eri vaiheista. Zip-tiedosto Tulee moodleen ja sitä tarvittaessa täydennetään. 
+
 # Mitä täydessä askeleen toteutus kommitissa on?
 * automation-kansioon: robotti tai sen muutos
 * specification-kansioon: työnkulun kuvausta sen verran kuin on tarpeen
