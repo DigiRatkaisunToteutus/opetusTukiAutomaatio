@@ -5,3 +5,4 @@ Resource      ../Resources/resources.robot
 Näytä Kaikki Kurssit
     Avaa Kurssisivu
     Tarkista Kurssilista
+
