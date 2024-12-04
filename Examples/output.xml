@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.1.1 (Python 3.13.1 on win32)" generated="2024-12-04T12:30:32.027982" rpa="false" schemaversion="5">
+<suite id="s1" name="2 2 0 2 Step" source="C:\Users\kahar\Git_harjoitus\projekti\opetusTukiAutomaatio\Examples\2_2_0_2_step.robot">
+<test id="s1-t1" name="Näytä Kaikki Kurssit" line="5">
+<kw name="Avaa Kurssisivu" owner="resources">
+<kw name="Evaluate" owner="BuiltIn">
+<msg time="2024-12-04T12:30:32.202969" level="INFO">${options} = &lt;selenium.webdriver.chrome.options.Options object at 0x00000267E39FF0E0&gt;</msg>
+<var>${options}</var>
+<arg>sys.modules['selenium.webdriver'].ChromeOptions()</arg>
+<arg>sys, selenium.webdriver</arg>
+<doc>Evaluates the given expression in Python and returns the result.</doc>
+<status status="PASS" start="2024-12-04T12:30:32.202811" elapsed="0.000178"/>
+</kw>
+<kw name="Call Method" owner="BuiltIn">
+<arg>${options}</arg>
+<arg>add_argument</arg>
+<arg>--ignore-certificate-errors</arg>
+<doc>Calls the named method of the given object with the provided arguments.</doc>
+<status status="PASS" start="2024-12-04T12:30:32.203065" elapsed="0.000075"/>
+</kw>
+<kw name="Open Browser" owner="SeleniumLibrary">
+<msg time="2024-12-04T12:30:32.203337" level="INFO">Opening browser 'chrome' to base url 'https://moodle.eoppimispalvelut.fi/'.</msg>
+<arg>${URL}</arg>
+<arg>${BROWSER}</arg>
+<arg>options=${options}</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<status status="PASS" start="2024-12-04T12:30:32.203215" elapsed="4.432943"/>
+</kw>
+<kw name="Maximize Browser Window" owner="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<status status="PASS" start="2024-12-04T12:30:36.636299" elapsed="0.026599"/>
+</kw>
+<kw name="Run Keyword And Ignore Error" owner="BuiltIn">
+<kw name="Wait Until Element Is Visible" owner="SeleniumLibrary">
+<msg time="2024-12-04T12:31:06.901850" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="selenium-screenshot-2.png"&gt;&lt;img src="selenium-screenshot-2.png" width="800px"&gt;&lt;/a&gt;</msg>
+<msg time="2024-12-04T12:31:06.901968" level="FAIL">Element 'xpath=//div[@id='course-list']' not visible after 30 seconds.</msg>
+<arg>xpath=//div[@id='course-list']</arg>
+<arg>30s</arg>
+<doc>Waits until the element ``locator`` is visible.</doc>
+<status status="FAIL" start="2024-12-04T12:30:36.663149" elapsed="30.239930">Element 'xpath=//div[@id='course-list']' not visible after 30 seconds.</status>
+</kw>
+<arg>Wait Until Element Is Visible</arg>
+<arg>xpath=//div[@id='course-list']</arg>
+<arg>30s</arg>
+<doc>Runs the given keyword with the given arguments and ignores possible error.</doc>
+<status status="PASS" start="2024-12-04T12:30:36.663026" elapsed="30.240125"/>
+</kw>
+<status status="PASS" start="2024-12-04T12:30:32.202456" elapsed="34.700744"/>
+</kw>
+<kw name="Tarkista Kurssilista" owner="resources">
+<kw name="Get WebElements" owner="SeleniumLibrary">
+<msg time="2024-12-04T12:31:06.912408" level="INFO">${courses} = []</msg>
+<var>${courses}</var>
+<arg>xpath=//div[@class='course-item']</arg>
+<doc>Returns a list of WebElement objects matching the ``locator``.</doc>
+<status status="PASS" start="2024-12-04T12:31:06.903742" elapsed="0.008687"/>
+</kw>
+<for flavor="IN">
+<iter>
+<kw name="Get Text" owner="SeleniumLibrary">
+<var>${course_name}</var>
+<arg>${course}</arg>
+<doc>Returns the text value of the element identified by ``locator``.</doc>
+<status status="NOT RUN" start="2024-12-04T12:31:06.912645" elapsed="0.000016"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<arg>${course_name}</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="NOT RUN" start="2024-12-04T12:31:06.912711" elapsed="0.000012"/>
+</kw>
+<var name="${course}"/>
+<status status="NOT RUN" start="2024-12-04T12:31:06.912579" elapsed="0.000163"/>
+</iter>
+<var>${course}</var>
+<value>@{courses}</value>
+<status status="NOT RUN" start="2024-12-04T12:31:06.912482" elapsed="0.000282"/>
+</for>
+<kw name="Close Browser" owner="SeleniumLibrary" type="TEARDOWN">
+<doc>Closes the current browser.</doc>
+<status status="PASS" start="2024-12-04T12:31:06.912843" elapsed="2.321187"/>
+</kw>
+<status status="PASS" start="2024-12-04T12:31:06.903568" elapsed="2.330677"/>
+</kw>
+<status status="PASS" start="2024-12-04T12:30:32.202029" elapsed="37.032506"/>
+</test>
+<status status="PASS" start="2024-12-04T12:30:32.028872" elapsed="37.206261"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="2 2 0 2 Step">2 2 0 2 Step</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
