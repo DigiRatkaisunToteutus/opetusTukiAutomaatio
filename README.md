@@ -14,9 +14,7 @@ Nopeasti kasaan kyhätty rakenne joka toivottavasti tukee toimintaa riittäväst
 * resources
     * testauksessa tarvittavat muuttujat ja funktiot. Tänne rakennatte avainsanat joita käytätte automation kansiossa olevissa työnkuluissa. 
 * testdata
-    * tähän kansioon laitan www-sivun lähdekoodeja tarpeen mukaan testien ladattaviksi. Koska teillä ei ole pääsyä opettajan käyttöliittymään. 
-    * **HUOM**: Tämä tarkoittaa sitä että robotissa ei voi oikeasti testata siirtymiä sivulta toiselle heti. On vain kirjoitettava sellainen siirtymän varmistaminen mutta se pitää laittaa kommentteihin, merkata selvästi "TODO: poista kommenteista oikeaa testiä varten". Kommentin alapuolelle sitten sivun lataaminen tiedostosta, tästä hakemistosta. 
-    * **HUOM**: Nimeän sivut Työnkulun ja askelen mukaisiin kansioihin. Jos materiaalia puuttuu, pyytäkää minua tekemään se. Teen niitä sitä mukaa kun askeleet tulevat työn alle. 
+    * testeissä tarvittavaa dataa, ei kommitoida. 
 
 * spesification
     * Tähän kansioon teette omien työnkulkujenne graafisen esityksen ja mahdollisesti tarvittavat tekstimuotoiset kuvaukset. 
@@ -26,6 +24,9 @@ Nopeasti kasaan kyhätty rakenne joka toivottavasti tukee toimintaa riittäväst
 
 * static_pages
     * Sisältää tallennettuja www-sivuja moodlen eri vaiheista. Zip-tiedosto Tulee moodleen ja sitä tarvittaessa täydennetään. 
+    * tähän kansioon laitan www-sivun lähdekoodeja tarpeen mukaan testien ladattaviksi. Koska teillä ei ole pääsyä opettajan käyttöliittymään. 
+    * **HUOM**: Tämä tarkoittaa sitä että robotissa ei voi oikeasti testata siirtymiä sivulta toiselle heti. On vain kirjoitettava sellainen siirtymän varmistaminen mutta se pitää laittaa kommentteihin, merkata selvästi "TODO: poista kommenteista oikeaa testiä varten". Kommentin alapuolelle sitten sivun lataaminen tiedostosta, tästä hakemistosta. 
+    * **HUOM**: Nimeän sivut Työnkulun ja askelen mukaisiin kansioihin. Jos materiaalia puuttuu, pyytäkää minua tekemään se. Teen niitä sitä mukaa kun askeleet tulevat työn alle. 
 
 # Mitä täydessä askeleen toteutus kommitissa on?
 * automation-kansioon: robotti tai sen muutos
