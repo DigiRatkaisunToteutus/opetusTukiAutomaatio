@@ -5,7 +5,7 @@ Documentation       Testataan dokumentaatiota
 Library    SeleniumLibrary
 
 *** Variables ***
-${URL}    https://google.com
+${URL}       https://moodle.eoppimispalvelut.fi/
 
 *** Keywords ***
 Kirjaudu moodleen
@@ -13,4 +13,3 @@ Kirjaudu moodleen
     Title Should Be    Kirjaudu sivustoon | Lapinkampus Moodle
     
     [Teardown]    Close Browser
-

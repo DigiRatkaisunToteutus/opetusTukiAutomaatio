@@ -2,11 +2,9 @@
 Library     SeleniumLibrary
 Library     Collections
 
-
 *** Variables ***
 ${URL}       https://moodle.eoppimispalvelut.fi/
 ${BROWSER}   chrome
-
 
 *** Keywords ***
 Avaa Kurssisivu
@@ -15,7 +13,7 @@ Avaa Kurssisivu
     Open Browser    ${URL}    ${BROWSER}    options=${options}
     Maximize Browser Window
     Run Keyword And Ignore Error    Wait Until Element Is Visible    xpath=//div[@id='course-list']    30s
-
+    Capture Page Screenshot    ${OUTPUT_DIR}/screenshot.png
 
 Tarkista Kurssilista
     ${courses}=    Get WebElements    xpath=//div[@class='course-item']
@@ -23,4 +21,3 @@ Tarkista Kurssilista
         ${course_name}=    Get Text    ${course}
         Log    ${course_name}
     END
-    [Teardown]    Close Browser
