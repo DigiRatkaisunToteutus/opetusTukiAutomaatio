@@ -9,16 +9,8 @@ Resource    ../Resources/2_2_1_2_Osallistujayhteenveto.resource
 #    2_2_1_1 Kirjaudu moodleen
 #    2_2_1_2 Hae kurssin osallistujayhteenveto    (RYHMÄ 10 SAMI TEKEE)
 Open Site
-    Open browser  D://Projektit/Ryhmatyo/opetusTukiAutomaatio/Resources/2_2_1_2_A_Moodle.htm
 Choose Groups Summary
-    Click Element     name=jump
-    Click Element     //*[contains(text(),'Yhteenveto')]
 Download JSON File
-    Sleep   5
-    #Sleep 5 sekunttia, jotta virheilmoitus ehtii mennä ohi
-    Click Element     id=downloadtype_dataformat
-    Click Element     //*[contains(text(),'Javascript Object Notation')]
-#   Click Button     //*[contains(text(),'Lataa')]
 #   Click Button Lataa on kommenttina, koska muuten ilmoittaa FAIL, koska tiedostoa ei oikeasti ole olemassa.
 #   Automaatio lataa koneelle ladatut tiedostot -kansioon tiedoston nimeltä: "T42T302OJ-3003_groups.json"
 
