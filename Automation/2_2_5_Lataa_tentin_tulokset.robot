@@ -10,18 +10,12 @@ Resource    ../Resources/2_2_5_Lataa_tentin_tulokset.resource
 ${URL}    https://moodle.eoppimispalvelut.fi/
 
 
-*** Test Cases ***
+*** Tasks ***
 
 2_2_5_2 Lataa tentin tulokset excelinä
-    @{EMPTY}
+  Paina nappia tulokset
+  Tiedot exceliin
+  Näytä raportti
+  Lataa
 
-Paina nappia tulokset 
-    @{EMPTY}
-Tiedot exceliin
-    @{EMPTY}
-Näytä raportti
-    @{EMPTY}
 
-Lataa
-     @{EMPTY}
-     
