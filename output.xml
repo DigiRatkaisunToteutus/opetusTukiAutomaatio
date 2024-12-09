@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.1.1 (Python 3.13.0 on win32)" generated="2024-12-09T15:33:01.787973" rpa="false" schemaversion="5">
+<suite id="s1" name="2 2 0 3 Etsi kurssi" source="d:\automat\opetusTukiAutomaatio-1\Automation\2_2_0_3 Etsi kurssi.robot">
+<test id="s1-t1" name="Etsi Kurssi" line="10">
+<kw name="Open Browser" owner="SeleniumLibrary">
+<msg time="2024-12-09T15:33:02.419400" level="INFO">Opening browser 'Firefox' to base url 'https://moodle.eoppimispalvelut.fi'.</msg>
+<arg>${URL}</arg>
+<arg>Firefox</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<status status="PASS" start="2024-12-09T15:33:02.416742" elapsed="6.672193"/>
+</kw>
+<kw name="Maximize Browser Window" owner="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<status status="PASS" start="2024-12-09T15:33:09.090342" elapsed="0.272494"/>
+</kw>
+<kw name="Sleep" owner="BuiltIn">
+<msg time="2024-12-09T15:33:19.365066" level="INFO">Slept 10 seconds.</msg>
+<arg>10s</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<status status="PASS" start="2024-12-09T15:33:09.363890" elapsed="10.001833"/>
+</kw>
+<kw name="Capture Page Screenshot" owner="SeleniumLibrary">
+<msg time="2024-12-09T15:33:19.554324" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="results/screenshot_1.png"&gt;&lt;img src="results/screenshot_1.png" width="800px"&gt;&lt;/a&gt;</msg>
+<arg>${OUTPUT_DIR}/screenshot_1.png</arg>
+<doc>Takes a screenshot of the current page and embeds it into a log file.</doc>
+<status status="PASS" start="2024-12-09T15:33:19.366731" elapsed="0.188173"/>
+</kw>
+<kw name="Wait Until Page Contains" owner="SeleniumLibrary">
+<arg>Digitaalisen ratkaisun toteutus - T42T165OJ-3003</arg>
+<arg>timeout=60s</arg>
+<doc>Waits until ``text`` appears on the current page.</doc>
+<status status="PASS" start="2024-12-09T15:33:19.555999" elapsed="15.876214"/>
+</kw>
+<kw name="Capture Page Screenshot" owner="SeleniumLibrary">
+<msg time="2024-12-09T15:33:35.484942" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="results/screenshot_2.png"&gt;&lt;img src="results/screenshot_2.png" width="800px"&gt;&lt;/a&gt;</msg>
+<arg>${OUTPUT_DIR}/screenshot_2.png</arg>
+<doc>Takes a screenshot of the current page and embeds it into a log file.</doc>
+<status status="PASS" start="2024-12-09T15:33:35.433232" elapsed="0.052299"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2024-12-09T15:33:35.487372" level="INFO">Kurssi löytyi</msg>
+<arg>Kurssi löytyi</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2024-12-09T15:33:35.486606" elapsed="0.001189"/>
+</kw>
+<kw name="Close Browser" owner="SeleniumLibrary">
+<doc>Closes the current browser.</doc>
+<status status="PASS" start="2024-12-09T15:33:35.489142" elapsed="2.966168"/>
+</kw>
+<status status="PASS" start="2024-12-09T15:33:02.411820" elapsed="36.044554"/>
+</test>
+<status status="PASS" start="2024-12-09T15:33:01.799735" elapsed="36.659297"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="2 2 0 3 Etsi kurssi">2 2 0 3 Etsi kurssi</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

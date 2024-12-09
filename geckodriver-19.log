@@ -1,0 +1,19 @@
+1733740695920	geckodriver	INFO	Listening on 127.0.0.1:49649
+1733740698981	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49650" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DNERI~1\\AppData\\Local\\Temp\\rust_mozprofileOJ1jNP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733740699230	Marionette	INFO	Marionette enabled
+1733740699371	Marionette	INFO	Listening on port 49659
+WebDriver BiDi listening on ws://127.0.0.1:49650
+Read port: 49659
+1733740699472	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49650/devtools/browser/6061a303-1f98-4d89-b3c4-8f4b3ff62434
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.error: ({})
+1733740736597	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733740772893	Marionette	INFO	Stopped listening on port 49659
+Dynamically enable window occlusion 1

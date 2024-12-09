@@ -1,0 +1,38 @@
+1733733222598	geckodriver	INFO	Listening on 127.0.0.1:63365
+1733733225676	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63366" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DNERI~1\\AppData\\Local\\Temp\\rust_mozprofilewwSU15"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733733225921	Marionette	INFO	Marionette enabled
+1733733226059	Marionette	INFO	Listening on port 63373
+WebDriver BiDi listening on ws://127.0.0.1:63366
+Read port: 63373
+1733733226170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63366/devtools/browser/47ced819-bcd7-486e-8e35-1a9510966f31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.error: ({})
+1733733254163	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.youtube.com/s/player/62ccfae7/www-embed-player.vflset/www-embed-player.js, line 1413: Script terminated by timeout at:
+Bs/<@https://www.youtube.com/s/player/62ccfae7/www-embed-player.vflset/www-embed-player.js:1413:68
+Lb<@https://www.youtube.com/s/player/62ccfae7/www-embed-player.vflset/www-embed-player.js:202:132
+Bs@https://www.youtube.com/s/player/62ccfae7/www-embed-player.vflset/www-embed-player.js:1413:32
+As@https://www.youtube.com/s/player/62ccfae7/www-embed-player.vflset/www-embed-player.js:1411:50
+dv@https://www.youtube.com/s/player/62ccfae7/www-embed-player.vflset/www-embed-player.js:1575:61
+cz@https://www.youtube.com/s/player/62ccfae7/www-embed-player.vflset/www-embed-player.js:1939:157
+@https://www.youtube.com/s/player/62ccfae7/www-embed-player.vflset/www-embed-player.js:1947:137
+$l/<@https://www.youtube.com/s/player/62ccfae7/www-embed-player.vflset/www-embed-player.js:924:63
+
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 589: TypeError: browser is null
+console.error: "Unable to find target with innerWindowId:17179869185"
+console.error: "Unable to find target with innerWindowId:17179869195"
+console.warn: "Exception in clearMessagesCache" (new Error("Connection closed, pending request to server0.conn0.process8//consoleActor239, type clearMessagesCacheAsync failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nclearMessagesCache@resource://devtools/client/webconsole/webconsole-ui.js:246:36\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.warn: "stylesheets: fetch from cache returned non-css content-type text/plain for https://moodle.eoppimispalvelut.fi/course/format/onetopic/styles.php, trying without cache."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+1733733860014	Marionette	INFO	Stopped listening on port 63373
+Dynamically enable window occlusion 1
+console.error: "Error in worker resource://devtools/client/shared/source-map-loader/worker.js" ": "

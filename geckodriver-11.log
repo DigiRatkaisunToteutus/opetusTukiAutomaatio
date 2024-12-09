@@ -1,0 +1,31 @@
+1733736656559	geckodriver	INFO	Listening on 127.0.0.1:64711
+1733736659652	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64712" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DNERI~1\\AppData\\Local\\Temp\\rust_mozprofileDbvQFV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733736659894	Marionette	INFO	Marionette enabled
+1733736660029	Marionette	INFO	Listening on port 64722
+WebDriver BiDi listening on ws://127.0.0.1:64712
+Read port: 64722
+1733736660143	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64712/devtools/browser/8c0ff5eb-7d9a-40d5-b519-9a101937509d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.error: ({})
+1733736690205	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.youtube.com/s/player/62ccfae7/www-embed-player.vflset/www-embed-player.js, line 947: Script terminated by timeout at:
+um@https://www.youtube.com/s/player/62ccfae7/www-embed-player.vflset/www-embed-player.js:947:16
+R@https://www.youtube.com/s/player/62ccfae7/www-embed-player.vflset/www-embed-player.js:945:228
+@https://www.youtube.com/s/player/62ccfae7/www-embed-player.vflset/www-embed-player.js:1947:52
+$l/<@https://www.youtube.com/s/player/62ccfae7/www-embed-player.vflset/www-embed-player.js:924:63
+
+1733737176766	Marionette	INFO	Stopped listening on port 64722
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1733737176813	WebDriver BiDi	ERROR	Failed to stop protocol: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 47"  data: no] Stack trace: allowAllCerts.disable()@cert.sys.mjs:47
+destroy()@Session.sys.mjs:280
+deleteSession()@WebDriverBiDi.sys.mjs:174
+stop()@WebDriverBiDi.sys.mjs:264
