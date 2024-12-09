@@ -3,17 +3,18 @@ Documentation       Testataan dokumentaatiota
 
 *** Settings ***
 Library    SeleniumLibrary
+Library    OperatingSystem
 
 *** Variables ***
-${URL}     http://localhost:8000
-${FILE}    ../data/your_file_to_process.txt
+${URL}    https://moodle.eoppimispalvelut.fi/
 
 *** Test Cases ***
 Process Uploaded File
     Open Browser    ${URL}    edge
-    #Upload File     ${FILE} 
     Close Browser
 
 *** Keywords ***
-#Upload File
- #   [Arguments]    ${file_path}
+Download JSON File
+    Sleep   5
+    Click Element     id=downloadtype_dataformat
+    Click Element     //*[contains(text(),'Javascript Object Notation')]
