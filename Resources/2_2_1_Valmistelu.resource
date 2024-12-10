@@ -17,8 +17,8 @@ Kirjaudu moodleen
     Log    Done.
 #    klikkaa näytä alasvetovalikko
 #    valitse 1. vaihtoehto, kaikki 
-
 2_2_0_3 Etsi kurssi
+
     Log    Done. 
 #    Kirjoita hae-kenttään     kurssin nimi
 #    etsi sivulta     kurssin nimi
@@ -26,6 +26,4 @@ Kirjaudu moodleen
 2_2_0_4 Klikkaa kurssin nimeä
     Log    Done.
 #    klikkaa     löydetty weppikomponentti
-
-#    [Teardown]    Close Browser
-
+    [Teardown]    Close Browser
