@@ -2,7 +2,7 @@ Documentation       Testataan dokumentaatiota
 '''                 testi 
 
 *** Settings ***
-Library    SeleniumLibrary
+Library     OperatingSystem
 
 *** Variables ***
 
