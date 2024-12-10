@@ -6,7 +6,7 @@ Library    SeleniumLibrary
 Library    OperatingSystem
 
 *** Variables ***
-${RELATIVE PATH}         ../resources/2_2_1_2_TestausFlip2_Osallistujat_LapinkampusMoodle.htm  #Käytössä 2_2_1_2 osiossa
+${RELATIVE PATH}         ../static_pages/2_2_1_Valmistelu/2_2_1_2_A_Ryhmät _ Lapinkampus Moodle.htm
 
 *** Keywords ***
 #2_2_1_2 Hae kurssin osallistujayhteenveto
