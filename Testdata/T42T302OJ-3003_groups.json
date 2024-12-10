@@ -1,0 +1,3784 @@
+[
+    [
+        {
+            "ryhmittely": "APariBuff",
+            "ryhm": "",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "APariReservi",
+            "ryhm": "",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "APariSetA",
+            "ryhm": "",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "APariSetB",
+            "ryhm": "",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "APariSetC",
+            "ryhm": "",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "APariSetD",
+            "ryhm": "",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "Asiantuntijuudet",
+            "ryhm": "",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "BGroupReservi",
+            "ryhm": "",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "BProjBuff",
+            "ryhm": "Raita",
+            "etunimi": "Jay",
+            "sukunimi": "Langridge",
+            "shkpostiosoite": "jlangridgec@timesonline.co.uk"
+        },
+        {
+            "ryhmittely": "BProjBuff",
+            "ryhm": "Saarni",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "BProjBuff",
+            "ryhm": "Tammi",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "BProjSetA",
+            "ryhm": "",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "BProjSetB",
+            "ryhm": "",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "BProjSetC",
+            "ryhm": "",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "BProjSetD",
+            "ryhm": "",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "CaseOrganisaatio",
+            "ryhm": "",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "COTAR Asiantuntija A",
+            "ryhm": "",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "COTAR Asiantuntija B",
+            "ryhm": "",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "COTAR Asiantuntija C",
+            "ryhm": "",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "COTAR Asiantuntija D",
+            "ryhm": "",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "COTAR Asiantuntijaryhmät",
+            "ryhm": "",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "COTAR_1_Ryhmät",
+            "ryhm": "",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "COTAR_2_Ryhmät",
+            "ryhm": "",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "COTAR_3_Ryhmät",
+            "ryhm": "",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "COTAR_4_Ryhmät",
+            "ryhm": "",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "COTAR_5_Ryhmät",
+            "ryhm": "Tammi",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "COTAR_6_Ryhmät",
+            "ryhm": "Raita",
+            "etunimi": "Delmar",
+            "sukunimi": "Bettis",
+            "shkpostiosoite": "dbettis8@shinystat.com"
+        },
+        {
+            "ryhmittely": "COTAR_6_Ryhmät",
+            "ryhm": "Saarni",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "COTAR_AR_1",
+            "ryhm": "",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "COTAR_AR_2",
+            "ryhm": "",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "COTAR_AR_3",
+            "ryhm": "",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "COTAR_AR_4",
+            "ryhm": "",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "COTAR_AR_5",
+            "ryhm": "",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "COTAR_AR_6",
+            "ryhm": "",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "Erillistehtävät",
+            "ryhm": "Uusinta",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "MBTI",
+            "ryhm": "ENFJ",
+            "etunimi": "Bethena",
+            "sukunimi": "Greyes",
+            "shkpostiosoite": "bgreyesf@sourceforge.net"
+        },
+        {
+            "ryhmittely": "MBTI",
+            "ryhm": "ENFP",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "MBTI",
+            "ryhm": "ENTJ",
+            "etunimi": "Chelsie",
+            "sukunimi": "Francey",
+            "shkpostiosoite": "cfranceyj@nhs.uk"
+        },
+        {
+            "ryhmittely": "MBTI",
+            "ryhm": "ENTJ",
+            "etunimi": "Nicola",
+            "sukunimi": "Rediers",
+            "shkpostiosoite": "nrediers7@nasa.gov"
+        },
+        {
+            "ryhmittely": "MBTI",
+            "ryhm": "ENTP",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "MBTI",
+            "ryhm": "ESFJ",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "MBTI",
+            "ryhm": "ESFP",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "MBTI",
+            "ryhm": "ESTJ",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "MBTI",
+            "ryhm": "ESTP",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "MBTI",
+            "ryhm": "INFJ",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "MBTI",
+            "ryhm": "INFP",
+            "etunimi": "Dorree",
+            "sukunimi": "Draye",
+            "shkpostiosoite": "ddraye4@who.int"
+        },
+        {
+            "ryhmittely": "MBTI",
+            "ryhm": "INTJ",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "MBTI",
+            "ryhm": "INTP",
+            "etunimi": "Nicola",
+            "sukunimi": "Rediers",
+            "shkpostiosoite": "nrediers7@nasa.gov"
+        },
+        {
+            "ryhmittely": "MBTI",
+            "ryhm": "ISFJ",
+            "etunimi": "Alphonse",
+            "sukunimi": "Bilovus",
+            "shkpostiosoite": "abilovusg@thetimes.co.uk"
+        },
+        {
+            "ryhmittely": "MBTI",
+            "ryhm": "ISFP",
+            "etunimi": "Alphonse",
+            "sukunimi": "Bilovus",
+            "shkpostiosoite": "abilovusg@thetimes.co.uk"
+        },
+        {
+            "ryhmittely": "MBTI",
+            "ryhm": "ISTJ",
+            "etunimi": "Simeon",
+            "sukunimi": "Meechan",
+            "shkpostiosoite": "smeechand@google.de"
+        },
+        {
+            "ryhmittely": "MBTI",
+            "ryhm": "ISTJ",
+            "etunimi": "Marcelo",
+            "sukunimi": "Arsmith",
+            "shkpostiosoite": "marsmith2@yolasite.com"
+        },
+        {
+            "ryhmittely": "MBTI",
+            "ryhm": "ISTJ",
+            "etunimi": "Dorree",
+            "sukunimi": "Draye",
+            "shkpostiosoite": "ddraye4@who.int"
+        },
+        {
+            "ryhmittely": "MBTI",
+            "ryhm": "ISTP",
+            "etunimi": "Goraud",
+            "sukunimi": "McPartlin",
+            "shkpostiosoite": "gmcpartlini@tuttocitta.it"
+        },
+        {
+            "ryhmittely": "MBTI",
+            "ryhm": "ISTP",
+            "etunimi": "Goraud",
+            "sukunimi": "McPartlin",
+            "shkpostiosoite": "gmcpartlini@tuttocitta.it"
+        },
+        {
+            "ryhmittely": "MBTI_SFNT",
+            "ryhm": "",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "MBTI_STNF",
+            "ryhm": "28",
+            "etunimi": "Tammy",
+            "sukunimi": "Lamden",
+            "shkpostiosoite": "tlamdenh@un.org"
+        },
+        {
+            "ryhmittely": "MBTI_STNF",
+            "ryhm": "28",
+            "etunimi": "Mariya",
+            "sukunimi": "McQuarrie",
+            "shkpostiosoite": "mmcquarrie5@theguardian.com"
+        },
+        {
+            "ryhmittely": "MBTI_STNF",
+            "ryhm": "29",
+            "etunimi": "Patricia",
+            "sukunimi": "Collingwood",
+            "shkpostiosoite": "pcollingwood3@amazon.co.jp"
+        },
+        {
+            "ryhmittely": "MBTI_STNF",
+            "ryhm": "29",
+            "etunimi": "Bernetta",
+            "sukunimi": "MacRinn",
+            "shkpostiosoite": "bmacrinnb@arizona.edu"
+        },
+        {
+            "ryhmittely": "MBTI_STNF",
+            "ryhm": "31",
+            "etunimi": "Marcelo",
+            "sukunimi": "Arsmith",
+            "shkpostiosoite": "marsmith2@yolasite.com"
+        },
+        {
+            "ryhmittely": "MBTI_STNF",
+            "ryhm": "31",
+            "etunimi": "Bethena",
+            "sukunimi": "Greyes",
+            "shkpostiosoite": "bgreyesf@sourceforge.net"
+        },
+        {
+            "ryhmittely": "MBTI_STNF",
+            "ryhm": "32",
+            "etunimi": "Goraud",
+            "sukunimi": "McPartlin",
+            "shkpostiosoite": "gmcpartlini@tuttocitta.it"
+        },
+        {
+            "ryhmittely": "MBTI_STNF",
+            "ryhm": "33",
+            "etunimi": "Bethena",
+            "sukunimi": "Greyes",
+            "shkpostiosoite": "bgreyesf@sourceforge.net"
+        },
+        {
+            "ryhmittely": "MBTI_STNF",
+            "ryhm": "34",
+            "etunimi": "Alvina",
+            "sukunimi": "Ellice",
+            "shkpostiosoite": "aellice9@nifty.com"
+        },
+        {
+            "ryhmittely": "MBTI-NF",
+            "ryhm": "",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "MBTI-NT",
+            "ryhm": "",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "MBTI-SF",
+            "ryhm": "",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "MBTI-ST",
+            "ryhm": "",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "OsaaminenAlkaja",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Clarette",
+            "sukunimi": "Brookson",
+            "shkpostiosoite": "cbrooksona@odnoklassniki.ru"
+        },
+        {
+            "ryhmittely": "OsaaminenAlkaja",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Bethena",
+            "sukunimi": "Greyes",
+            "shkpostiosoite": "bgreyesf@sourceforge.net"
+        },
+        {
+            "ryhmittely": "OsaaminenAlkaja",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Nicola",
+            "sukunimi": "Rediers",
+            "shkpostiosoite": "nrediers7@nasa.gov"
+        },
+        {
+            "ryhmittely": "OsaaminenAlkaja",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Rosamond",
+            "sukunimi": "Duckerin",
+            "shkpostiosoite": "rduckerin0@a8.net"
+        },
+        {
+            "ryhmittely": "OsaaminenAlkaja",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Delmar",
+            "sukunimi": "Bettis",
+            "shkpostiosoite": "dbettis8@shinystat.com"
+        },
+        {
+            "ryhmittely": "OsaaminenAlkaja",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Patricia",
+            "sukunimi": "Collingwood",
+            "shkpostiosoite": "pcollingwood3@amazon.co.jp"
+        },
+        {
+            "ryhmittely": "OsaaminenAlkaja",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Patricia",
+            "sukunimi": "Collingwood",
+            "shkpostiosoite": "pcollingwood3@amazon.co.jp"
+        },
+        {
+            "ryhmittely": "OsaaminenAlkaja",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Bernetta",
+            "sukunimi": "MacRinn",
+            "shkpostiosoite": "bmacrinnb@arizona.edu"
+        },
+        {
+            "ryhmittely": "OsaaminenAlkaja",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Jay",
+            "sukunimi": "Langridge",
+            "shkpostiosoite": "jlangridgec@timesonline.co.uk"
+        },
+        {
+            "ryhmittely": "OsaaminenAlkaja",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Delmar",
+            "sukunimi": "Bettis",
+            "shkpostiosoite": "dbettis8@shinystat.com"
+        },
+        {
+            "ryhmittely": "OsaaminenAlkaja",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Jay",
+            "sukunimi": "Langridge",
+            "shkpostiosoite": "jlangridgec@timesonline.co.uk"
+        },
+        {
+            "ryhmittely": "OsaaminenAlkaja",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Mariya",
+            "sukunimi": "McQuarrie",
+            "shkpostiosoite": "mmcquarrie5@theguardian.com"
+        },
+        {
+            "ryhmittely": "OsaaminenAlkaja",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Goraud",
+            "sukunimi": "McPartlin",
+            "shkpostiosoite": "gmcpartlini@tuttocitta.it"
+        },
+        {
+            "ryhmittely": "OsaaminenAlkaja",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Lotti",
+            "sukunimi": "Whiley",
+            "shkpostiosoite": "lwhiley6@livejournal.com"
+        },
+        {
+            "ryhmittely": "OsaaminenAlkaja",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Chelsie",
+            "sukunimi": "Francey",
+            "shkpostiosoite": "cfranceyj@nhs.uk"
+        },
+        {
+            "ryhmittely": "OsaaminenAlkaja",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Patricia",
+            "sukunimi": "Collingwood",
+            "shkpostiosoite": "pcollingwood3@amazon.co.jp"
+        },
+        {
+            "ryhmittely": "OsaaminenAlkaja",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Bernetta",
+            "sukunimi": "MacRinn",
+            "shkpostiosoite": "bmacrinnb@arizona.edu"
+        },
+        {
+            "ryhmittely": "OsaaminenAlkaja",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Lorette",
+            "sukunimi": "Cordes",
+            "shkpostiosoite": "lcordese@chronoengine.com"
+        },
+        {
+            "ryhmittely": "OsaaminenAlkaja",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Patricia",
+            "sukunimi": "Collingwood",
+            "shkpostiosoite": "pcollingwood3@amazon.co.jp"
+        },
+        {
+            "ryhmittely": "OsaaminenAlkaja",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Lotti",
+            "sukunimi": "Whiley",
+            "shkpostiosoite": "lwhiley6@livejournal.com"
+        },
+        {
+            "ryhmittely": "OsaaminenAlkaja",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Bernetta",
+            "sukunimi": "MacRinn",
+            "shkpostiosoite": "bmacrinnb@arizona.edu"
+        },
+        {
+            "ryhmittely": "OsaaminenKokenut",
+            "ryhm": "2. Vähän tunnen kokonaisuuden osia",
+            "etunimi": "Bernetta",
+            "sukunimi": "MacRinn",
+            "shkpostiosoite": "bmacrinnb@arizona.edu"
+        },
+        {
+            "ryhmittely": "OsaaminenKokenut",
+            "ryhm": "2. Vähän tunnen kokonaisuuden osia",
+            "etunimi": "Bethena",
+            "sukunimi": "Greyes",
+            "shkpostiosoite": "bgreyesf@sourceforge.net"
+        },
+        {
+            "ryhmittely": "OsaaminenKokenut",
+            "ryhm": "2. Vähän tunnen kokonaisuuden osia",
+            "etunimi": "Alphonse",
+            "sukunimi": "Bilovus",
+            "shkpostiosoite": "abilovusg@thetimes.co.uk"
+        },
+        {
+            "ryhmittely": "OsaaminenKokenut",
+            "ryhm": "2. Vähän tunnen kokonaisuuden osia",
+            "etunimi": "Nicola",
+            "sukunimi": "Rediers",
+            "shkpostiosoite": "nrediers7@nasa.gov"
+        },
+        {
+            "ryhmittely": "OsaaminenKokenut",
+            "ryhm": "2. Vähän tunnen kokonaisuuden osia",
+            "etunimi": "Goraud",
+            "sukunimi": "McPartlin",
+            "shkpostiosoite": "gmcpartlini@tuttocitta.it"
+        },
+        {
+            "ryhmittely": "OsaaminenKokenut",
+            "ryhm": "2. Vähän tunnen kokonaisuuden osia",
+            "etunimi": "Patricia",
+            "sukunimi": "Collingwood",
+            "shkpostiosoite": "pcollingwood3@amazon.co.jp"
+        },
+        {
+            "ryhmittely": "OsaaminenKokenut",
+            "ryhm": "2. Vähän tunnen kokonaisuuden osia",
+            "etunimi": "Lotti",
+            "sukunimi": "Whiley",
+            "shkpostiosoite": "lwhiley6@livejournal.com"
+        },
+        {
+            "ryhmittely": "OsaaminenKokenut",
+            "ryhm": "2. Vähän tunnen kokonaisuuden osia",
+            "etunimi": "Alvina",
+            "sukunimi": "Ellice",
+            "shkpostiosoite": "aellice9@nifty.com"
+        },
+        {
+            "ryhmittely": "OsaaminenKokenut",
+            "ryhm": "2. Vähän tunnen kokonaisuuden osia",
+            "etunimi": "Chelsie",
+            "sukunimi": "Francey",
+            "shkpostiosoite": "cfranceyj@nhs.uk"
+        },
+        {
+            "ryhmittely": "OsaaminenKokenut",
+            "ryhm": "2. Vähän tunnen kokonaisuuden osia",
+            "etunimi": "Jay",
+            "sukunimi": "Langridge",
+            "shkpostiosoite": "jlangridgec@timesonline.co.uk"
+        },
+        {
+            "ryhmittely": "OsaaminenKokenut",
+            "ryhm": "2. Vähän tunnen kokonaisuuden osia",
+            "etunimi": "Delmar",
+            "sukunimi": "Bettis",
+            "shkpostiosoite": "dbettis8@shinystat.com"
+        },
+        {
+            "ryhmittely": "OsaaminenKokenut",
+            "ryhm": "2. Vähän tunnen kokonaisuuden osia",
+            "etunimi": "Patricia",
+            "sukunimi": "Collingwood",
+            "shkpostiosoite": "pcollingwood3@amazon.co.jp"
+        },
+        {
+            "ryhmittely": "OsaaminenKokenut",
+            "ryhm": "2. Vähän tunnen kokonaisuuden osia",
+            "etunimi": "Marcelo",
+            "sukunimi": "Arsmith",
+            "shkpostiosoite": "marsmith2@yolasite.com"
+        },
+        {
+            "ryhmittely": "OsaaminenKokenut",
+            "ryhm": "2. Vähän tunnen kokonaisuuden osia",
+            "etunimi": "Marcelo",
+            "sukunimi": "Arsmith",
+            "shkpostiosoite": "marsmith2@yolasite.com"
+        },
+        {
+            "ryhmittely": "OsaaminenKokenut",
+            "ryhm": "3. Jonkin verran tunnen kokonaisuudesta",
+            "etunimi": "Alphonse",
+            "sukunimi": "Bilovus",
+            "shkpostiosoite": "abilovusg@thetimes.co.uk"
+        },
+        {
+            "ryhmittely": "OsaaminenKokenut",
+            "ryhm": "3. Jonkin verran tunnen kokonaisuudesta",
+            "etunimi": "Simeon",
+            "sukunimi": "Meechan",
+            "shkpostiosoite": "smeechand@google.de"
+        },
+        {
+            "ryhmittely": "OsaaminenKokenut",
+            "ryhm": "3. Jonkin verran tunnen kokonaisuudesta",
+            "etunimi": "Marcelo",
+            "sukunimi": "Arsmith",
+            "shkpostiosoite": "marsmith2@yolasite.com"
+        },
+        {
+            "ryhmittely": "OsaaminenKokenut",
+            "ryhm": "3. Jonkin verran tunnen kokonaisuudesta",
+            "etunimi": "Alvina",
+            "sukunimi": "Ellice",
+            "shkpostiosoite": "aellice9@nifty.com"
+        },
+        {
+            "ryhmittely": "OsaaminenKokenut",
+            "ryhm": "3. Jonkin verran tunnen kokonaisuudesta",
+            "etunimi": "Lorette",
+            "sukunimi": "Cordes",
+            "shkpostiosoite": "lcordese@chronoengine.com"
+        },
+        {
+            "ryhmittely": "OsaaminenKokenut",
+            "ryhm": "3. Jonkin verran tunnen kokonaisuudesta",
+            "etunimi": "Marcelo",
+            "sukunimi": "Arsmith",
+            "shkpostiosoite": "marsmith2@yolasite.com"
+        },
+        {
+            "ryhmittely": "OsaaminenKokenut",
+            "ryhm": "4. Melko hyvä ymmärrys",
+            "etunimi": "Alvina",
+            "sukunimi": "Ellice",
+            "shkpostiosoite": "aellice9@nifty.com"
+        },
+        {
+            "ryhmittely": "OsaaminenKokenut",
+            "ryhm": "4. Melko hyvä ymmärrys",
+            "etunimi": "Bernetta",
+            "sukunimi": "MacRinn",
+            "shkpostiosoite": "bmacrinnb@arizona.edu"
+        },
+        {
+            "ryhmittely": "OsaaminenKokenut",
+            "ryhm": "4. Melko hyvä ymmärrys",
+            "etunimi": "Dorree",
+            "sukunimi": "Draye",
+            "shkpostiosoite": "ddraye4@who.int"
+        },
+        {
+            "ryhmittely": "OsaaminenKokenut",
+            "ryhm": "4. Melko hyvä ymmärrys",
+            "etunimi": "Alvina",
+            "sukunimi": "Ellice",
+            "shkpostiosoite": "aellice9@nifty.com"
+        },
+        {
+            "ryhmittely": "OsaaminenKokenut",
+            "ryhm": "4. Melko hyvä ymmärrys",
+            "etunimi": "Dorree",
+            "sukunimi": "Draye",
+            "shkpostiosoite": "ddraye4@who.int"
+        },
+        {
+            "ryhmittely": "OsaaminenKokenut",
+            "ryhm": "4. Melko hyvä ymmärrys",
+            "etunimi": "Delmar",
+            "sukunimi": "Bettis",
+            "shkpostiosoite": "dbettis8@shinystat.com"
+        },
+        {
+            "ryhmittely": "OsaaminenKokenut",
+            "ryhm": "4. Melko hyvä ymmärrys",
+            "etunimi": "Lorette",
+            "sukunimi": "Cordes",
+            "shkpostiosoite": "lcordese@chronoengine.com"
+        },
+        {
+            "ryhmittely": "OsaaminenKokenut",
+            "ryhm": "5. Hyvät perustiedot kokonaisuudesta",
+            "etunimi": "Alvina",
+            "sukunimi": "Ellice",
+            "shkpostiosoite": "aellice9@nifty.com"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Rosamond",
+            "sukunimi": "Duckerin",
+            "shkpostiosoite": "rduckerin0@a8.net"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Mariya",
+            "sukunimi": "McQuarrie",
+            "shkpostiosoite": "mmcquarrie5@theguardian.com"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Jay",
+            "sukunimi": "Langridge",
+            "shkpostiosoite": "jlangridgec@timesonline.co.uk"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Marcelo",
+            "sukunimi": "Arsmith",
+            "shkpostiosoite": "marsmith2@yolasite.com"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Nicola",
+            "sukunimi": "Rediers",
+            "shkpostiosoite": "nrediers7@nasa.gov"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Simeon",
+            "sukunimi": "Meechan",
+            "shkpostiosoite": "smeechand@google.de"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Chelsie",
+            "sukunimi": "Francey",
+            "shkpostiosoite": "cfranceyj@nhs.uk"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Delmar",
+            "sukunimi": "Bettis",
+            "shkpostiosoite": "dbettis8@shinystat.com"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Patricia",
+            "sukunimi": "Collingwood",
+            "shkpostiosoite": "pcollingwood3@amazon.co.jp"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Bethena",
+            "sukunimi": "Greyes",
+            "shkpostiosoite": "bgreyesf@sourceforge.net"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Goraud",
+            "sukunimi": "McPartlin",
+            "shkpostiosoite": "gmcpartlini@tuttocitta.it"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Clarette",
+            "sukunimi": "Brookson",
+            "shkpostiosoite": "cbrooksona@odnoklassniki.ru"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Patricia",
+            "sukunimi": "Collingwood",
+            "shkpostiosoite": "pcollingwood3@amazon.co.jp"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Bethena",
+            "sukunimi": "Greyes",
+            "shkpostiosoite": "bgreyesf@sourceforge.net"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Goraud",
+            "sukunimi": "McPartlin",
+            "shkpostiosoite": "gmcpartlini@tuttocitta.it"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Nicola",
+            "sukunimi": "Rediers",
+            "shkpostiosoite": "nrediers7@nasa.gov"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Lotti",
+            "sukunimi": "Whiley",
+            "shkpostiosoite": "lwhiley6@livejournal.com"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Clarette",
+            "sukunimi": "Brookson",
+            "shkpostiosoite": "cbrooksona@odnoklassniki.ru"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Alvina",
+            "sukunimi": "Ellice",
+            "shkpostiosoite": "aellice9@nifty.com"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Goraud",
+            "sukunimi": "McPartlin",
+            "shkpostiosoite": "gmcpartlini@tuttocitta.it"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "1. En tunne kokonaisuutta ollenkaan",
+            "etunimi": "Dorree",
+            "sukunimi": "Draye",
+            "shkpostiosoite": "ddraye4@who.int"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "2. Vähän tunnen kokonaisuuden osia",
+            "etunimi": "Delmar",
+            "sukunimi": "Bettis",
+            "shkpostiosoite": "dbettis8@shinystat.com"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "2. Vähän tunnen kokonaisuuden osia",
+            "etunimi": "Dorree",
+            "sukunimi": "Draye",
+            "shkpostiosoite": "ddraye4@who.int"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "2. Vähän tunnen kokonaisuuden osia",
+            "etunimi": "Dorree",
+            "sukunimi": "Draye",
+            "shkpostiosoite": "ddraye4@who.int"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "2. Vähän tunnen kokonaisuuden osia",
+            "etunimi": "Alphonse",
+            "sukunimi": "Bilovus",
+            "shkpostiosoite": "abilovusg@thetimes.co.uk"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "2. Vähän tunnen kokonaisuuden osia",
+            "etunimi": "Patricia",
+            "sukunimi": "Collingwood",
+            "shkpostiosoite": "pcollingwood3@amazon.co.jp"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "2. Vähän tunnen kokonaisuuden osia",
+            "etunimi": "Tammy",
+            "sukunimi": "Lamden",
+            "shkpostiosoite": "tlamdenh@un.org"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "2. Vähän tunnen kokonaisuuden osia",
+            "etunimi": "Patricia",
+            "sukunimi": "Collingwood",
+            "shkpostiosoite": "pcollingwood3@amazon.co.jp"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "2. Vähän tunnen kokonaisuuden osia",
+            "etunimi": "Rosamond",
+            "sukunimi": "Duckerin",
+            "shkpostiosoite": "rduckerin0@a8.net"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "2. Vähän tunnen kokonaisuuden osia",
+            "etunimi": "Delmar",
+            "sukunimi": "Bettis",
+            "shkpostiosoite": "dbettis8@shinystat.com"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "2. Vähän tunnen kokonaisuuden osia",
+            "etunimi": "Jay",
+            "sukunimi": "Langridge",
+            "shkpostiosoite": "jlangridgec@timesonline.co.uk"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "2. Vähän tunnen kokonaisuuden osia",
+            "etunimi": "Alphonse",
+            "sukunimi": "Bilovus",
+            "shkpostiosoite": "abilovusg@thetimes.co.uk"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "2. Vähän tunnen kokonaisuuden osia",
+            "etunimi": "Rosamond",
+            "sukunimi": "Duckerin",
+            "shkpostiosoite": "rduckerin0@a8.net"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "2. Vähän tunnen kokonaisuuden osia",
+            "etunimi": "Simeon",
+            "sukunimi": "Meechan",
+            "shkpostiosoite": "smeechand@google.de"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "2. Vähän tunnen kokonaisuuden osia",
+            "etunimi": "Patricia",
+            "sukunimi": "Collingwood",
+            "shkpostiosoite": "pcollingwood3@amazon.co.jp"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "3. Jonkin verran tunnen kokonaisuudesta",
+            "etunimi": "Bernetta",
+            "sukunimi": "MacRinn",
+            "shkpostiosoite": "bmacrinnb@arizona.edu"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "3. Jonkin verran tunnen kokonaisuudesta",
+            "etunimi": "Clarette",
+            "sukunimi": "Brookson",
+            "shkpostiosoite": "cbrooksona@odnoklassniki.ru"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "3. Jonkin verran tunnen kokonaisuudesta",
+            "etunimi": "Jay",
+            "sukunimi": "Langridge",
+            "shkpostiosoite": "jlangridgec@timesonline.co.uk"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "3. Jonkin verran tunnen kokonaisuudesta",
+            "etunimi": "Marcelo",
+            "sukunimi": "Arsmith",
+            "shkpostiosoite": "marsmith2@yolasite.com"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "3. Jonkin verran tunnen kokonaisuudesta",
+            "etunimi": "Nicola",
+            "sukunimi": "Rediers",
+            "shkpostiosoite": "nrediers7@nasa.gov"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "3. Jonkin verran tunnen kokonaisuudesta",
+            "etunimi": "Patricia",
+            "sukunimi": "Collingwood",
+            "shkpostiosoite": "pcollingwood3@amazon.co.jp"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "4. Melko hyvä ymmärrys",
+            "etunimi": "Patricia",
+            "sukunimi": "Collingwood",
+            "shkpostiosoite": "pcollingwood3@amazon.co.jp"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "4. Melko hyvä ymmärrys",
+            "etunimi": "Rosamond",
+            "sukunimi": "Duckerin",
+            "shkpostiosoite": "rduckerin0@a8.net"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "4. Melko hyvä ymmärrys",
+            "etunimi": "Chelsie",
+            "sukunimi": "Francey",
+            "shkpostiosoite": "cfranceyj@nhs.uk"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "4. Melko hyvä ymmärrys",
+            "etunimi": "Nicola",
+            "sukunimi": "Rediers",
+            "shkpostiosoite": "nrediers7@nasa.gov"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "4. Melko hyvä ymmärrys",
+            "etunimi": "Nicola",
+            "sukunimi": "Rediers",
+            "shkpostiosoite": "nrediers7@nasa.gov"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "4. Melko hyvä ymmärrys",
+            "etunimi": "Marcelo",
+            "sukunimi": "Arsmith",
+            "shkpostiosoite": "marsmith2@yolasite.com"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "4. Melko hyvä ymmärrys",
+            "etunimi": "Bethena",
+            "sukunimi": "Greyes",
+            "shkpostiosoite": "bgreyesf@sourceforge.net"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "5. Hyvät perustiedot kokonaisuudesta",
+            "etunimi": "Patricia",
+            "sukunimi": "Collingwood",
+            "shkpostiosoite": "pcollingwood3@amazon.co.jp"
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "Jonkin verran ymmärrän aiheista",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "Olen tehnyt harrastuksena tai työkseni",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "OsaamisTasot",
+            "ryhm": "Täysin uutta asiaa",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "Parikeskustelut",
+            "ryhm": "Teen paritehtävät yksin",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "Parityön teko",
+            "ryhm": "Teen paritehtävät yksin",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "Parityön teko",
+            "ryhm": "Teen parityötä",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "Parityön teko",
+            "ryhm": "Teen sovitun työparin kanssa",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "Parityöt",
+            "ryhm": "",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "Parityöt_AFlexi",
+            "ryhm": "",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "Poikkeuspääsyt",
+            "ryhm": "Poikkeuspääsy 1",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "ProjektiRyhmät",
+            "ryhm": "Raita",
+            "etunimi": "Jay",
+            "sukunimi": "Langridge",
+            "shkpostiosoite": "jlangridgec@timesonline.co.uk"
+        },
+        {
+            "ryhmittely": "ProjektiRyhmät",
+            "ryhm": "Saarni",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "ProjektiRyhmät",
+            "ryhm": "Tammi",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "10",
+            "etunimi": "Rosamond",
+            "sukunimi": "Duckerin",
+            "shkpostiosoite": "rduckerin0@a8.net"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "10",
+            "etunimi": "Bernetta",
+            "sukunimi": "MacRinn",
+            "shkpostiosoite": "bmacrinnb@arizona.edu"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "10",
+            "etunimi": "Goraud",
+            "sukunimi": "McPartlin",
+            "shkpostiosoite": "gmcpartlini@tuttocitta.it"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "11",
+            "etunimi": "Clarette",
+            "sukunimi": "Brookson",
+            "shkpostiosoite": "cbrooksona@odnoklassniki.ru"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "11",
+            "etunimi": "Simeon",
+            "sukunimi": "Meechan",
+            "shkpostiosoite": "smeechand@google.de"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "11",
+            "etunimi": "Chelsie",
+            "sukunimi": "Francey",
+            "shkpostiosoite": "cfranceyj@nhs.uk"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "12",
+            "etunimi": "Nicola",
+            "sukunimi": "Rediers",
+            "shkpostiosoite": "nrediers7@nasa.gov"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "12",
+            "etunimi": "Mariya",
+            "sukunimi": "McQuarrie",
+            "shkpostiosoite": "mmcquarrie5@theguardian.com"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "12",
+            "etunimi": "Goraud",
+            "sukunimi": "McPartlin",
+            "shkpostiosoite": "gmcpartlini@tuttocitta.it"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "15",
+            "etunimi": "Mariya",
+            "sukunimi": "McQuarrie",
+            "shkpostiosoite": "mmcquarrie5@theguardian.com"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "15",
+            "etunimi": "Bernetta",
+            "sukunimi": "MacRinn",
+            "shkpostiosoite": "bmacrinnb@arizona.edu"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "15",
+            "etunimi": "Chelsie",
+            "sukunimi": "Francey",
+            "shkpostiosoite": "cfranceyj@nhs.uk"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "16",
+            "etunimi": "Dorree",
+            "sukunimi": "Draye",
+            "shkpostiosoite": "ddraye4@who.int"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "16",
+            "etunimi": "Tammy",
+            "sukunimi": "Lamden",
+            "shkpostiosoite": "tlamdenh@un.org"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "16",
+            "etunimi": "Marcelo",
+            "sukunimi": "Arsmith",
+            "shkpostiosoite": "marsmith2@yolasite.com"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "17",
+            "etunimi": "Tammy",
+            "sukunimi": "Lamden",
+            "shkpostiosoite": "tlamdenh@un.org"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "17",
+            "etunimi": "Lotti",
+            "sukunimi": "Whiley",
+            "shkpostiosoite": "lwhiley6@livejournal.com"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "17",
+            "etunimi": "Nicola",
+            "sukunimi": "Rediers",
+            "shkpostiosoite": "nrediers7@nasa.gov"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "18",
+            "etunimi": "Tammy",
+            "sukunimi": "Lamden",
+            "shkpostiosoite": "tlamdenh@un.org"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "18",
+            "etunimi": "Bethena",
+            "sukunimi": "Greyes",
+            "shkpostiosoite": "bgreyesf@sourceforge.net"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "18",
+            "etunimi": "Alphonse",
+            "sukunimi": "Bilovus",
+            "shkpostiosoite": "abilovusg@thetimes.co.uk"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "20",
+            "etunimi": "Alvina",
+            "sukunimi": "Ellice",
+            "shkpostiosoite": "aellice9@nifty.com"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "20",
+            "etunimi": "Clarette",
+            "sukunimi": "Brookson",
+            "shkpostiosoite": "cbrooksona@odnoklassniki.ru"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "20",
+            "etunimi": "Tammy",
+            "sukunimi": "Lamden",
+            "shkpostiosoite": "tlamdenh@un.org"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "21",
+            "etunimi": "Rosamond",
+            "sukunimi": "Duckerin",
+            "shkpostiosoite": "rduckerin0@a8.net"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "21",
+            "etunimi": "Alphonse",
+            "sukunimi": "Bilovus",
+            "shkpostiosoite": "abilovusg@thetimes.co.uk"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "21",
+            "etunimi": "Alvina",
+            "sukunimi": "Ellice",
+            "shkpostiosoite": "aellice9@nifty.com"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "22",
+            "etunimi": "Chelsie",
+            "sukunimi": "Francey",
+            "shkpostiosoite": "cfranceyj@nhs.uk"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "22",
+            "etunimi": "Marcelo",
+            "sukunimi": "Arsmith",
+            "shkpostiosoite": "marsmith2@yolasite.com"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "22",
+            "etunimi": "Dorree",
+            "sukunimi": "Draye",
+            "shkpostiosoite": "ddraye4@who.int"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "23",
+            "etunimi": "Jay",
+            "sukunimi": "Langridge",
+            "shkpostiosoite": "jlangridgec@timesonline.co.uk"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "23",
+            "etunimi": "Bethena",
+            "sukunimi": "Greyes",
+            "shkpostiosoite": "bgreyesf@sourceforge.net"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "23",
+            "etunimi": "Mariya",
+            "sukunimi": "McQuarrie",
+            "shkpostiosoite": "mmcquarrie5@theguardian.com"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "24",
+            "etunimi": "Delmar",
+            "sukunimi": "Bettis",
+            "shkpostiosoite": "dbettis8@shinystat.com"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "24",
+            "etunimi": "Marcelo",
+            "sukunimi": "Arsmith",
+            "shkpostiosoite": "marsmith2@yolasite.com"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "24",
+            "etunimi": "Bernetta",
+            "sukunimi": "MacRinn",
+            "shkpostiosoite": "bmacrinnb@arizona.edu"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "25",
+            "etunimi": "Lotti",
+            "sukunimi": "Whiley",
+            "shkpostiosoite": "lwhiley6@livejournal.com"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "25",
+            "etunimi": "Dorree",
+            "sukunimi": "Draye",
+            "shkpostiosoite": "ddraye4@who.int"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "25",
+            "etunimi": "Simeon",
+            "sukunimi": "Meechan",
+            "shkpostiosoite": "smeechand@google.de"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "26",
+            "etunimi": "Alvina",
+            "sukunimi": "Ellice",
+            "shkpostiosoite": "aellice9@nifty.com"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "26",
+            "etunimi": "Clarette",
+            "sukunimi": "Brookson",
+            "shkpostiosoite": "cbrooksona@odnoklassniki.ru"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "26",
+            "etunimi": "Lorette",
+            "sukunimi": "Cordes",
+            "shkpostiosoite": "lcordese@chronoengine.com"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "27",
+            "etunimi": "Lorette",
+            "sukunimi": "Cordes",
+            "shkpostiosoite": "lcordese@chronoengine.com"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "27",
+            "etunimi": "Rosamond",
+            "sukunimi": "Duckerin",
+            "shkpostiosoite": "rduckerin0@a8.net"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "27",
+            "etunimi": "Bethena",
+            "sukunimi": "Greyes",
+            "shkpostiosoite": "bgreyesf@sourceforge.net"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "30",
+            "etunimi": "Mariya",
+            "sukunimi": "McQuarrie",
+            "shkpostiosoite": "mmcquarrie5@theguardian.com"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "9",
+            "etunimi": "Clarette",
+            "sukunimi": "Brookson",
+            "shkpostiosoite": "cbrooksona@odnoklassniki.ru"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "9",
+            "etunimi": "Nicola",
+            "sukunimi": "Rediers",
+            "shkpostiosoite": "nrediers7@nasa.gov"
+        },
+        {
+            "ryhmittely": "ProjektiTehtävä",
+            "ryhm": "9",
+            "etunimi": "Goraud",
+            "sukunimi": "McPartlin",
+            "shkpostiosoite": "gmcpartlini@tuttocitta.it"
+        },
+        {
+            "ryhmittely": "Ryhmäkeskustelut",
+            "ryhm": "Raita",
+            "etunimi": "Alvina",
+            "sukunimi": "Ellice",
+            "shkpostiosoite": "aellice9@nifty.com"
+        },
+        {
+            "ryhmittely": "Ryhmäkeskustelut",
+            "ryhm": "Saarni",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "Ryhmäkeskustelut",
+            "ryhm": "Tammi",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "Ryhmäkeskustelut",
+            "ryhm": "Teen ryhmätehtävät yksin",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "RyhmätParit",
+            "ryhm": "Raita",
+            "etunimi": "Jay",
+            "sukunimi": "Langridge",
+            "shkpostiosoite": "jlangridgec@timesonline.co.uk"
+        },
+        {
+            "ryhmittely": "RyhmätParit",
+            "ryhm": "Saarni",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "RyhmätParit",
+            "ryhm": "Tammi",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "RyhmätParitKeskustelut",
+            "ryhm": "Raita",
+            "etunimi": "Nicola",
+            "sukunimi": "Rediers",
+            "shkpostiosoite": "nrediers7@nasa.gov"
+        },
+        {
+            "ryhmittely": "RyhmätParitKeskustelut",
+            "ryhm": "Saarni",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "RyhmätParitKeskustelut",
+            "ryhm": "Tammi",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "RyhmätParitKeskustelut",
+            "ryhm": "Teen paritehtävät yksin",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "RyhmätParitKeskustelut",
+            "ryhm": "Teen ryhmätehtävät yksin",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Ohjattu ryhmän muodostus",
+            "etunimi": "Jay",
+            "sukunimi": "Langridge",
+            "shkpostiosoite": "jlangridgec@timesonline.co.uk"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Ohjattu ryhmän muodostus",
+            "etunimi": "Mariya",
+            "sukunimi": "McQuarrie",
+            "shkpostiosoite": "mmcquarrie5@theguardian.com"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Ohjattu ryhmän muodostus",
+            "etunimi": "Patricia",
+            "sukunimi": "Collingwood",
+            "shkpostiosoite": "pcollingwood3@amazon.co.jp"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Ohjattu ryhmän muodostus",
+            "etunimi": "Goraud",
+            "sukunimi": "McPartlin",
+            "shkpostiosoite": "gmcpartlini@tuttocitta.it"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Ohjattu ryhmän muodostus",
+            "etunimi": "Lorette",
+            "sukunimi": "Cordes",
+            "shkpostiosoite": "lcordese@chronoengine.com"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Ohjattu ryhmän muodostus",
+            "etunimi": "Nicola",
+            "sukunimi": "Rediers",
+            "shkpostiosoite": "nrediers7@nasa.gov"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Ohjattu ryhmän muodostus",
+            "etunimi": "Patricia",
+            "sukunimi": "Collingwood",
+            "shkpostiosoite": "pcollingwood3@amazon.co.jp"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Ohjattu ryhmän muodostus",
+            "etunimi": "Dorree",
+            "sukunimi": "Draye",
+            "shkpostiosoite": "ddraye4@who.int"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Ohjattu ryhmän muodostus",
+            "etunimi": "Goraud",
+            "sukunimi": "McPartlin",
+            "shkpostiosoite": "gmcpartlini@tuttocitta.it"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Ohjattu ryhmän muodostus",
+            "etunimi": "Patricia",
+            "sukunimi": "Collingwood",
+            "shkpostiosoite": "pcollingwood3@amazon.co.jp"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Ohjattu ryhmän muodostus",
+            "etunimi": "Bethena",
+            "sukunimi": "Greyes",
+            "shkpostiosoite": "bgreyesf@sourceforge.net"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Ohjattu ryhmän muodostus",
+            "etunimi": "Alphonse",
+            "sukunimi": "Bilovus",
+            "shkpostiosoite": "abilovusg@thetimes.co.uk"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Ohjattu ryhmän muodostus",
+            "etunimi": "Bernetta",
+            "sukunimi": "MacRinn",
+            "shkpostiosoite": "bmacrinnb@arizona.edu"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Ohjattu ryhmän muodostus",
+            "etunimi": "Goraud",
+            "sukunimi": "McPartlin",
+            "shkpostiosoite": "gmcpartlini@tuttocitta.it"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Ohjattu ryhmän muodostus",
+            "etunimi": "Alvina",
+            "sukunimi": "Ellice",
+            "shkpostiosoite": "aellice9@nifty.com"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Ohjattu ryhmän muodostus",
+            "etunimi": "Jay",
+            "sukunimi": "Langridge",
+            "shkpostiosoite": "jlangridgec@timesonline.co.uk"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Ohjattu ryhmän muodostus",
+            "etunimi": "Clarette",
+            "sukunimi": "Brookson",
+            "shkpostiosoite": "cbrooksona@odnoklassniki.ru"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Ohjattu ryhmän muodostus",
+            "etunimi": "Clarette",
+            "sukunimi": "Brookson",
+            "shkpostiosoite": "cbrooksona@odnoklassniki.ru"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Ohjattu ryhmän muodostus",
+            "etunimi": "Delmar",
+            "sukunimi": "Bettis",
+            "shkpostiosoite": "dbettis8@shinystat.com"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Ohjattu ryhmän muodostus",
+            "etunimi": "Jay",
+            "sukunimi": "Langridge",
+            "shkpostiosoite": "jlangridgec@timesonline.co.uk"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Ohjattu ryhmän muodostus",
+            "etunimi": "Alvina",
+            "sukunimi": "Ellice",
+            "shkpostiosoite": "aellice9@nifty.com"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Ohjattu ryhmän muodostus",
+            "etunimi": "Clarette",
+            "sukunimi": "Brookson",
+            "shkpostiosoite": "cbrooksona@odnoklassniki.ru"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Ohjattu ryhmän muodostus",
+            "etunimi": "Lotti",
+            "sukunimi": "Whiley",
+            "shkpostiosoite": "lwhiley6@livejournal.com"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Ohjattu ryhmän muodostus",
+            "etunimi": "Dorree",
+            "sukunimi": "Draye",
+            "shkpostiosoite": "ddraye4@who.int"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Ohjattu ryhmän muodostus",
+            "etunimi": "Lorette",
+            "sukunimi": "Cordes",
+            "shkpostiosoite": "lcordese@chronoengine.com"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Ohjattu ryhmän muodostus",
+            "etunimi": "Delmar",
+            "sukunimi": "Bettis",
+            "shkpostiosoite": "dbettis8@shinystat.com"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Ohjattu ryhmän muodostus",
+            "etunimi": "Patricia",
+            "sukunimi": "Collingwood",
+            "shkpostiosoite": "pcollingwood3@amazon.co.jp"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Ohjattu ryhmän muodostus",
+            "etunimi": "Tammy",
+            "sukunimi": "Lamden",
+            "shkpostiosoite": "tlamdenh@un.org"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Ohjattu ryhmän muodostus",
+            "etunimi": "Chelsie",
+            "sukunimi": "Francey",
+            "shkpostiosoite": "cfranceyj@nhs.uk"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Ohjattu ryhmän muodostus",
+            "etunimi": "Rosamond",
+            "sukunimi": "Duckerin",
+            "shkpostiosoite": "rduckerin0@a8.net"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Ohjattu ryhmän muodostus",
+            "etunimi": "Tammy",
+            "sukunimi": "Lamden",
+            "shkpostiosoite": "tlamdenh@un.org"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Ohjattu ryhmän muodostus",
+            "etunimi": "Marcelo",
+            "sukunimi": "Arsmith",
+            "shkpostiosoite": "marsmith2@yolasite.com"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Ohjattu ryhmän muodostus",
+            "etunimi": "Marcelo",
+            "sukunimi": "Arsmith",
+            "shkpostiosoite": "marsmith2@yolasite.com"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Teen ryhmätehtävät yksin",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Teen ryhmätyön kolmen hengen ryhmässä",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Teen ryhmätyön parityönä",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Teen ryhmätyötä 4 hengen ryhmässä",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Teen sovitun ryhmän kanssa",
+            "etunimi": "Dorree",
+            "sukunimi": "Draye",
+            "shkpostiosoite": "ddraye4@who.int"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Teen sovitun ryhmän kanssa",
+            "etunimi": "Lotti",
+            "sukunimi": "Whiley",
+            "shkpostiosoite": "lwhiley6@livejournal.com"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Teen sovitun ryhmän kanssa",
+            "etunimi": "Dorree",
+            "sukunimi": "Draye",
+            "shkpostiosoite": "ddraye4@who.int"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Teen sovitun ryhmän kanssa",
+            "etunimi": "Bernetta",
+            "sukunimi": "MacRinn",
+            "shkpostiosoite": "bmacrinnb@arizona.edu"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Teen sovitun ryhmän kanssa",
+            "etunimi": "Bernetta",
+            "sukunimi": "MacRinn",
+            "shkpostiosoite": "bmacrinnb@arizona.edu"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Teen sovitun ryhmän kanssa",
+            "etunimi": "Chelsie",
+            "sukunimi": "Francey",
+            "shkpostiosoite": "cfranceyj@nhs.uk"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Teen sovitun ryhmän kanssa",
+            "etunimi": "Clarette",
+            "sukunimi": "Brookson",
+            "shkpostiosoite": "cbrooksona@odnoklassniki.ru"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Teen sovitun ryhmän kanssa",
+            "etunimi": "Goraud",
+            "sukunimi": "McPartlin",
+            "shkpostiosoite": "gmcpartlini@tuttocitta.it"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Teen sovitun ryhmän kanssa",
+            "etunimi": "Pam",
+            "sukunimi": "Brookwell",
+            "shkpostiosoite": "pbrookwell1@sina.com.cn"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Teen sovitun ryhmän kanssa",
+            "etunimi": "Pam",
+            "sukunimi": "Brookwell",
+            "shkpostiosoite": "pbrookwell1@sina.com.cn"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Teen sovitun ryhmän kanssa",
+            "etunimi": "Bernetta",
+            "sukunimi": "MacRinn",
+            "shkpostiosoite": "bmacrinnb@arizona.edu"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Teen sovitun ryhmän kanssa",
+            "etunimi": "Chelsie",
+            "sukunimi": "Francey",
+            "shkpostiosoite": "cfranceyj@nhs.uk"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Teen sovitun ryhmän kanssa",
+            "etunimi": "Lotti",
+            "sukunimi": "Whiley",
+            "shkpostiosoite": "lwhiley6@livejournal.com"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Teen sovitun ryhmän kanssa",
+            "etunimi": "Simeon",
+            "sukunimi": "Meechan",
+            "shkpostiosoite": "smeechand@google.de"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Teen sovitun ryhmän kanssa",
+            "etunimi": "Goraud",
+            "sukunimi": "McPartlin",
+            "shkpostiosoite": "gmcpartlini@tuttocitta.it"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Teen sovitun ryhmän kanssa",
+            "etunimi": "Pam",
+            "sukunimi": "Brookwell",
+            "shkpostiosoite": "pbrookwell1@sina.com.cn"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Teen sovitun ryhmän kanssa",
+            "etunimi": "Chelsie",
+            "sukunimi": "Francey",
+            "shkpostiosoite": "cfranceyj@nhs.uk"
+        },
+        {
+            "ryhmittely": "Ryhmätyön teko",
+            "ryhm": "Teen sovitun ryhmän kanssa",
+            "etunimi": "Lotti",
+            "sukunimi": "Whiley",
+            "shkpostiosoite": "lwhiley6@livejournal.com"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "1. Ei lainkaan tärkeää",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "2. Ei kovin tärkeää",
+            "etunimi": "Patricia",
+            "sukunimi": "Collingwood",
+            "shkpostiosoite": "pcollingwood3@amazon.co.jp"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "2. Ei kovin tärkeää",
+            "etunimi": "Jay",
+            "sukunimi": "Langridge",
+            "shkpostiosoite": "jlangridgec@timesonline.co.uk"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Delmar",
+            "sukunimi": "Bettis",
+            "shkpostiosoite": "dbettis8@shinystat.com"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Mariya",
+            "sukunimi": "McQuarrie",
+            "shkpostiosoite": "mmcquarrie5@theguardian.com"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Goraud",
+            "sukunimi": "McPartlin",
+            "shkpostiosoite": "gmcpartlini@tuttocitta.it"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Marcelo",
+            "sukunimi": "Arsmith",
+            "shkpostiosoite": "marsmith2@yolasite.com"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Tammy",
+            "sukunimi": "Lamden",
+            "shkpostiosoite": "tlamdenh@un.org"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Tammy",
+            "sukunimi": "Lamden",
+            "shkpostiosoite": "tlamdenh@un.org"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Patricia",
+            "sukunimi": "Collingwood",
+            "shkpostiosoite": "pcollingwood3@amazon.co.jp"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Lorette",
+            "sukunimi": "Cordes",
+            "shkpostiosoite": "lcordese@chronoengine.com"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Jay",
+            "sukunimi": "Langridge",
+            "shkpostiosoite": "jlangridgec@timesonline.co.uk"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Patricia",
+            "sukunimi": "Collingwood",
+            "shkpostiosoite": "pcollingwood3@amazon.co.jp"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Patricia",
+            "sukunimi": "Collingwood",
+            "shkpostiosoite": "pcollingwood3@amazon.co.jp"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Lorette",
+            "sukunimi": "Cordes",
+            "shkpostiosoite": "lcordese@chronoengine.com"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Patricia",
+            "sukunimi": "Collingwood",
+            "shkpostiosoite": "pcollingwood3@amazon.co.jp"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Chelsie",
+            "sukunimi": "Francey",
+            "shkpostiosoite": "cfranceyj@nhs.uk"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Alvina",
+            "sukunimi": "Ellice",
+            "shkpostiosoite": "aellice9@nifty.com"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Delmar",
+            "sukunimi": "Bettis",
+            "shkpostiosoite": "dbettis8@shinystat.com"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Lotti",
+            "sukunimi": "Whiley",
+            "shkpostiosoite": "lwhiley6@livejournal.com"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Clarette",
+            "sukunimi": "Brookson",
+            "shkpostiosoite": "cbrooksona@odnoklassniki.ru"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Mariya",
+            "sukunimi": "McQuarrie",
+            "shkpostiosoite": "mmcquarrie5@theguardian.com"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Goraud",
+            "sukunimi": "McPartlin",
+            "shkpostiosoite": "gmcpartlini@tuttocitta.it"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Jay",
+            "sukunimi": "Langridge",
+            "shkpostiosoite": "jlangridgec@timesonline.co.uk"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Patricia",
+            "sukunimi": "Collingwood",
+            "shkpostiosoite": "pcollingwood3@amazon.co.jp"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Lotti",
+            "sukunimi": "Whiley",
+            "shkpostiosoite": "lwhiley6@livejournal.com"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Rosamond",
+            "sukunimi": "Duckerin",
+            "shkpostiosoite": "rduckerin0@a8.net"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Lorette",
+            "sukunimi": "Cordes",
+            "shkpostiosoite": "lcordese@chronoengine.com"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Mariya",
+            "sukunimi": "McQuarrie",
+            "shkpostiosoite": "mmcquarrie5@theguardian.com"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Nicola",
+            "sukunimi": "Rediers",
+            "shkpostiosoite": "nrediers7@nasa.gov"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Tammy",
+            "sukunimi": "Lamden",
+            "shkpostiosoite": "tlamdenh@un.org"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Bethena",
+            "sukunimi": "Greyes",
+            "shkpostiosoite": "bgreyesf@sourceforge.net"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Alphonse",
+            "sukunimi": "Bilovus",
+            "shkpostiosoite": "abilovusg@thetimes.co.uk"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Alphonse",
+            "sukunimi": "Bilovus",
+            "shkpostiosoite": "abilovusg@thetimes.co.uk"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Lotti",
+            "sukunimi": "Whiley",
+            "shkpostiosoite": "lwhiley6@livejournal.com"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Clarette",
+            "sukunimi": "Brookson",
+            "shkpostiosoite": "cbrooksona@odnoklassniki.ru"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Patricia",
+            "sukunimi": "Collingwood",
+            "shkpostiosoite": "pcollingwood3@amazon.co.jp"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Chelsie",
+            "sukunimi": "Francey",
+            "shkpostiosoite": "cfranceyj@nhs.uk"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Dorree",
+            "sukunimi": "Draye",
+            "shkpostiosoite": "ddraye4@who.int"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Nicola",
+            "sukunimi": "Rediers",
+            "shkpostiosoite": "nrediers7@nasa.gov"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Bethena",
+            "sukunimi": "Greyes",
+            "shkpostiosoite": "bgreyesf@sourceforge.net"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Clarette",
+            "sukunimi": "Brookson",
+            "shkpostiosoite": "cbrooksona@odnoklassniki.ru"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Bernetta",
+            "sukunimi": "MacRinn",
+            "shkpostiosoite": "bmacrinnb@arizona.edu"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Bernetta",
+            "sukunimi": "MacRinn",
+            "shkpostiosoite": "bmacrinnb@arizona.edu"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Jay",
+            "sukunimi": "Langridge",
+            "shkpostiosoite": "jlangridgec@timesonline.co.uk"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Lotti",
+            "sukunimi": "Whiley",
+            "shkpostiosoite": "lwhiley6@livejournal.com"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Nicola",
+            "sukunimi": "Rediers",
+            "shkpostiosoite": "nrediers7@nasa.gov"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Nicola",
+            "sukunimi": "Rediers",
+            "shkpostiosoite": "nrediers7@nasa.gov"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "5. Erittäin tärkeää",
+            "etunimi": "Tammy",
+            "sukunimi": "Lamden",
+            "shkpostiosoite": "tlamdenh@un.org"
+        },
+        {
+            "ryhmittely": "TavoiteArvosana",
+            "ryhm": "5. Erittäin tärkeää",
+            "etunimi": "Marcelo",
+            "sukunimi": "Arsmith",
+            "shkpostiosoite": "marsmith2@yolasite.com"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaSamantekevä",
+            "ryhm": "1. Ei lainkaan tärkeää",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaSamantekevä",
+            "ryhm": "2. Ei kovin tärkeää",
+            "etunimi": "Lorette",
+            "sukunimi": "Cordes",
+            "shkpostiosoite": "lcordese@chronoengine.com"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaSamantekevä",
+            "ryhm": "2. Ei kovin tärkeää",
+            "etunimi": "Mariya",
+            "sukunimi": "McQuarrie",
+            "shkpostiosoite": "mmcquarrie5@theguardian.com"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaSamantekevä",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Alvina",
+            "sukunimi": "Ellice",
+            "shkpostiosoite": "aellice9@nifty.com"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaSamantekevä",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Nicola",
+            "sukunimi": "Rediers",
+            "shkpostiosoite": "nrediers7@nasa.gov"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaSamantekevä",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Delmar",
+            "sukunimi": "Bettis",
+            "shkpostiosoite": "dbettis8@shinystat.com"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaSamantekevä",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Pam",
+            "sukunimi": "Brookwell",
+            "shkpostiosoite": "pbrookwell1@sina.com.cn"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaSamantekevä",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Alphonse",
+            "sukunimi": "Bilovus",
+            "shkpostiosoite": "abilovusg@thetimes.co.uk"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaSamantekevä",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Bernetta",
+            "sukunimi": "MacRinn",
+            "shkpostiosoite": "bmacrinnb@arizona.edu"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaSamantekevä",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Goraud",
+            "sukunimi": "McPartlin",
+            "shkpostiosoite": "gmcpartlini@tuttocitta.it"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaSamantekevä",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Nicola",
+            "sukunimi": "Rediers",
+            "shkpostiosoite": "nrediers7@nasa.gov"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaSamantekevä",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Marcelo",
+            "sukunimi": "Arsmith",
+            "shkpostiosoite": "marsmith2@yolasite.com"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaSamantekevä",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Delmar",
+            "sukunimi": "Bettis",
+            "shkpostiosoite": "dbettis8@shinystat.com"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaSamantekevä",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Jay",
+            "sukunimi": "Langridge",
+            "shkpostiosoite": "jlangridgec@timesonline.co.uk"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaSamantekevä",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Clarette",
+            "sukunimi": "Brookson",
+            "shkpostiosoite": "cbrooksona@odnoklassniki.ru"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaSamantekevä",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Alvina",
+            "sukunimi": "Ellice",
+            "shkpostiosoite": "aellice9@nifty.com"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaSamantekevä",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Lorette",
+            "sukunimi": "Cordes",
+            "shkpostiosoite": "lcordese@chronoengine.com"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaSamantekevä",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Clarette",
+            "sukunimi": "Brookson",
+            "shkpostiosoite": "cbrooksona@odnoklassniki.ru"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaSamantekevä",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Nicola",
+            "sukunimi": "Rediers",
+            "shkpostiosoite": "nrediers7@nasa.gov"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaSamantekevä",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Lotti",
+            "sukunimi": "Whiley",
+            "shkpostiosoite": "lwhiley6@livejournal.com"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaSamantekevä",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Jay",
+            "sukunimi": "Langridge",
+            "shkpostiosoite": "jlangridgec@timesonline.co.uk"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaSamantekevä",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Dorree",
+            "sukunimi": "Draye",
+            "shkpostiosoite": "ddraye4@who.int"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaSamantekevä",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Lotti",
+            "sukunimi": "Whiley",
+            "shkpostiosoite": "lwhiley6@livejournal.com"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaSamantekevä",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Tammy",
+            "sukunimi": "Lamden",
+            "shkpostiosoite": "tlamdenh@un.org"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaSamantekevä",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Jay",
+            "sukunimi": "Langridge",
+            "shkpostiosoite": "jlangridgec@timesonline.co.uk"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaSamantekevä",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Chelsie",
+            "sukunimi": "Francey",
+            "shkpostiosoite": "cfranceyj@nhs.uk"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaSamantekevä",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Dorree",
+            "sukunimi": "Draye",
+            "shkpostiosoite": "ddraye4@who.int"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaSamantekevä",
+            "ryhm": "3. Neutraali",
+            "etunimi": "Alvina",
+            "sukunimi": "Ellice",
+            "shkpostiosoite": "aellice9@nifty.com"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaTärkeä",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Clarette",
+            "sukunimi": "Brookson",
+            "shkpostiosoite": "cbrooksona@odnoklassniki.ru"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaTärkeä",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Nicola",
+            "sukunimi": "Rediers",
+            "shkpostiosoite": "nrediers7@nasa.gov"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaTärkeä",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Patricia",
+            "sukunimi": "Collingwood",
+            "shkpostiosoite": "pcollingwood3@amazon.co.jp"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaTärkeä",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Tammy",
+            "sukunimi": "Lamden",
+            "shkpostiosoite": "tlamdenh@un.org"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaTärkeä",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Chelsie",
+            "sukunimi": "Francey",
+            "shkpostiosoite": "cfranceyj@nhs.uk"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaTärkeä",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Lorette",
+            "sukunimi": "Cordes",
+            "shkpostiosoite": "lcordese@chronoengine.com"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaTärkeä",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Nicola",
+            "sukunimi": "Rediers",
+            "shkpostiosoite": "nrediers7@nasa.gov"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaTärkeä",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Jay",
+            "sukunimi": "Langridge",
+            "shkpostiosoite": "jlangridgec@timesonline.co.uk"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaTärkeä",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Marcelo",
+            "sukunimi": "Arsmith",
+            "shkpostiosoite": "marsmith2@yolasite.com"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaTärkeä",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Jay",
+            "sukunimi": "Langridge",
+            "shkpostiosoite": "jlangridgec@timesonline.co.uk"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaTärkeä",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Dorree",
+            "sukunimi": "Draye",
+            "shkpostiosoite": "ddraye4@who.int"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaTärkeä",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Bernetta",
+            "sukunimi": "MacRinn",
+            "shkpostiosoite": "bmacrinnb@arizona.edu"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaTärkeä",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Bernetta",
+            "sukunimi": "MacRinn",
+            "shkpostiosoite": "bmacrinnb@arizona.edu"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaTärkeä",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Rosamond",
+            "sukunimi": "Duckerin",
+            "shkpostiosoite": "rduckerin0@a8.net"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaTärkeä",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Clarette",
+            "sukunimi": "Brookson",
+            "shkpostiosoite": "cbrooksona@odnoklassniki.ru"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaTärkeä",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Alphonse",
+            "sukunimi": "Bilovus",
+            "shkpostiosoite": "abilovusg@thetimes.co.uk"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaTärkeä",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Tammy",
+            "sukunimi": "Lamden",
+            "shkpostiosoite": "tlamdenh@un.org"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaTärkeä",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Alvina",
+            "sukunimi": "Ellice",
+            "shkpostiosoite": "aellice9@nifty.com"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaTärkeä",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Alvina",
+            "sukunimi": "Ellice",
+            "shkpostiosoite": "aellice9@nifty.com"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaTärkeä",
+            "ryhm": "4. Tärkeää",
+            "etunimi": "Tammy",
+            "sukunimi": "Lamden",
+            "shkpostiosoite": "tlamdenh@un.org"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaTärkeä",
+            "ryhm": "5. Erittäin tärkeää",
+            "etunimi": "Lotti",
+            "sukunimi": "Whiley",
+            "shkpostiosoite": "lwhiley6@livejournal.com"
+        },
+        {
+            "ryhmittely": "TavoiteArvosanaTärkeä",
+            "ryhm": "5. Erittäin tärkeää",
+            "etunimi": "Clarette",
+            "sukunimi": "Brookson",
+            "shkpostiosoite": "cbrooksona@odnoklassniki.ru"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "1. Erittäin hidas",
+            "etunimi": "Bethena",
+            "sukunimi": "Greyes",
+            "shkpostiosoite": "bgreyesf@sourceforge.net"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "2. Hidas",
+            "etunimi": "Bernetta",
+            "sukunimi": "MacRinn",
+            "shkpostiosoite": "bmacrinnb@arizona.edu"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "2. Hidas",
+            "etunimi": "Nicola",
+            "sukunimi": "Rediers",
+            "shkpostiosoite": "nrediers7@nasa.gov"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "2. Hidas",
+            "etunimi": "Alvina",
+            "sukunimi": "Ellice",
+            "shkpostiosoite": "aellice9@nifty.com"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "2. Hidas",
+            "etunimi": "Bernetta",
+            "sukunimi": "MacRinn",
+            "shkpostiosoite": "bmacrinnb@arizona.edu"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "2. Hidas",
+            "etunimi": "Alphonse",
+            "sukunimi": "Bilovus",
+            "shkpostiosoite": "abilovusg@thetimes.co.uk"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "2. Hidas",
+            "etunimi": "Patricia",
+            "sukunimi": "Collingwood",
+            "shkpostiosoite": "pcollingwood3@amazon.co.jp"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Rosamond",
+            "sukunimi": "Duckerin",
+            "shkpostiosoite": "rduckerin0@a8.net"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Dorree",
+            "sukunimi": "Draye",
+            "shkpostiosoite": "ddraye4@who.int"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Alphonse",
+            "sukunimi": "Bilovus",
+            "shkpostiosoite": "abilovusg@thetimes.co.uk"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Pam",
+            "sukunimi": "Brookwell",
+            "shkpostiosoite": "pbrookwell1@sina.com.cn"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Pam",
+            "sukunimi": "Brookwell",
+            "shkpostiosoite": "pbrookwell1@sina.com.cn"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Nicola",
+            "sukunimi": "Rediers",
+            "shkpostiosoite": "nrediers7@nasa.gov"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Lotti",
+            "sukunimi": "Whiley",
+            "shkpostiosoite": "lwhiley6@livejournal.com"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Bernetta",
+            "sukunimi": "MacRinn",
+            "shkpostiosoite": "bmacrinnb@arizona.edu"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Dorree",
+            "sukunimi": "Draye",
+            "shkpostiosoite": "ddraye4@who.int"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Lotti",
+            "sukunimi": "Whiley",
+            "shkpostiosoite": "lwhiley6@livejournal.com"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Lotti",
+            "sukunimi": "Whiley",
+            "shkpostiosoite": "lwhiley6@livejournal.com"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Tammy",
+            "sukunimi": "Lamden",
+            "shkpostiosoite": "tlamdenh@un.org"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Tammy",
+            "sukunimi": "Lamden",
+            "shkpostiosoite": "tlamdenh@un.org"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Lorette",
+            "sukunimi": "Cordes",
+            "shkpostiosoite": "lcordese@chronoengine.com"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Mariya",
+            "sukunimi": "McQuarrie",
+            "shkpostiosoite": "mmcquarrie5@theguardian.com"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Bernetta",
+            "sukunimi": "MacRinn",
+            "shkpostiosoite": "bmacrinnb@arizona.edu"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Bethena",
+            "sukunimi": "Greyes",
+            "shkpostiosoite": "bgreyesf@sourceforge.net"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Bethena",
+            "sukunimi": "Greyes",
+            "shkpostiosoite": "bgreyesf@sourceforge.net"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Nicola",
+            "sukunimi": "Rediers",
+            "shkpostiosoite": "nrediers7@nasa.gov"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Clarette",
+            "sukunimi": "Brookson",
+            "shkpostiosoite": "cbrooksona@odnoklassniki.ru"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Goraud",
+            "sukunimi": "McPartlin",
+            "shkpostiosoite": "gmcpartlini@tuttocitta.it"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Nicola",
+            "sukunimi": "Rediers",
+            "shkpostiosoite": "nrediers7@nasa.gov"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Rosamond",
+            "sukunimi": "Duckerin",
+            "shkpostiosoite": "rduckerin0@a8.net"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Delmar",
+            "sukunimi": "Bettis",
+            "shkpostiosoite": "dbettis8@shinystat.com"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Delmar",
+            "sukunimi": "Bettis",
+            "shkpostiosoite": "dbettis8@shinystat.com"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Dorree",
+            "sukunimi": "Draye",
+            "shkpostiosoite": "ddraye4@who.int"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Delmar",
+            "sukunimi": "Bettis",
+            "shkpostiosoite": "dbettis8@shinystat.com"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Chelsie",
+            "sukunimi": "Francey",
+            "shkpostiosoite": "cfranceyj@nhs.uk"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Mariya",
+            "sukunimi": "McQuarrie",
+            "shkpostiosoite": "mmcquarrie5@theguardian.com"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Dorree",
+            "sukunimi": "Draye",
+            "shkpostiosoite": "ddraye4@who.int"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Patricia",
+            "sukunimi": "Collingwood",
+            "shkpostiosoite": "pcollingwood3@amazon.co.jp"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Lotti",
+            "sukunimi": "Whiley",
+            "shkpostiosoite": "lwhiley6@livejournal.com"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Lotti",
+            "sukunimi": "Whiley",
+            "shkpostiosoite": "lwhiley6@livejournal.com"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Lorette",
+            "sukunimi": "Cordes",
+            "shkpostiosoite": "lcordese@chronoengine.com"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Goraud",
+            "sukunimi": "McPartlin",
+            "shkpostiosoite": "gmcpartlini@tuttocitta.it"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "4. Nopea",
+            "etunimi": "Rosamond",
+            "sukunimi": "Duckerin",
+            "shkpostiosoite": "rduckerin0@a8.net"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "4. Nopea",
+            "etunimi": "Pam",
+            "sukunimi": "Brookwell",
+            "shkpostiosoite": "pbrookwell1@sina.com.cn"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "4. Nopea",
+            "etunimi": "Pam",
+            "sukunimi": "Brookwell",
+            "shkpostiosoite": "pbrookwell1@sina.com.cn"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "4. Nopea",
+            "etunimi": "Tammy",
+            "sukunimi": "Lamden",
+            "shkpostiosoite": "tlamdenh@un.org"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "4. Nopea",
+            "etunimi": "Lorette",
+            "sukunimi": "Cordes",
+            "shkpostiosoite": "lcordese@chronoengine.com"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "4. Nopea",
+            "etunimi": "Jay",
+            "sukunimi": "Langridge",
+            "shkpostiosoite": "jlangridgec@timesonline.co.uk"
+        },
+        {
+            "ryhmittely": "TavoiteEtenemisvauhti",
+            "ryhm": "5. Erittäin nopea",
+            "etunimi": "Delmar",
+            "sukunimi": "Bettis",
+            "shkpostiosoite": "dbettis8@shinystat.com"
+        },
+        {
+            "ryhmittely": "TavoiteTasot",
+            "ryhm": "Tavoitteena löytää jotain mielenkiintoista",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "TavoiteTasot",
+            "ryhm": "Tavoitteena mahdollisimman hyvä arvosana",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "TavoiteTasot",
+            "ryhm": "Tavoitteena saada hyväksytty suoritus",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "TavoiteTasot",
+            "ryhm": "vähintään 1",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "TavoiteTasot",
+            "ryhm": "vähintään 2",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "TavoiteTasot",
+            "ryhm": "vähintään 3",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "TavoiteTasot",
+            "ryhm": "vähintään 4",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "1. Erittäin hidas",
+            "etunimi": "Alvina",
+            "sukunimi": "Ellice",
+            "shkpostiosoite": "aellice9@nifty.com"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "2. Hidas",
+            "etunimi": "Patricia",
+            "sukunimi": "Collingwood",
+            "shkpostiosoite": "pcollingwood3@amazon.co.jp"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "2. Hidas",
+            "etunimi": "Clarette",
+            "sukunimi": "Brookson",
+            "shkpostiosoite": "cbrooksona@odnoklassniki.ru"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "2. Hidas",
+            "etunimi": "Pam",
+            "sukunimi": "Brookwell",
+            "shkpostiosoite": "pbrookwell1@sina.com.cn"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "2. Hidas",
+            "etunimi": "Lotti",
+            "sukunimi": "Whiley",
+            "shkpostiosoite": "lwhiley6@livejournal.com"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "2. Hidas",
+            "etunimi": "Rosamond",
+            "sukunimi": "Duckerin",
+            "shkpostiosoite": "rduckerin0@a8.net"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "2. Hidas",
+            "etunimi": "Alphonse",
+            "sukunimi": "Bilovus",
+            "shkpostiosoite": "abilovusg@thetimes.co.uk"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Bethena",
+            "sukunimi": "Greyes",
+            "shkpostiosoite": "bgreyesf@sourceforge.net"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Chelsie",
+            "sukunimi": "Francey",
+            "shkpostiosoite": "cfranceyj@nhs.uk"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Dorree",
+            "sukunimi": "Draye",
+            "shkpostiosoite": "ddraye4@who.int"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Clarette",
+            "sukunimi": "Brookson",
+            "shkpostiosoite": "cbrooksona@odnoklassniki.ru"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Simeon",
+            "sukunimi": "Meechan",
+            "shkpostiosoite": "smeechand@google.de"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Patricia",
+            "sukunimi": "Collingwood",
+            "shkpostiosoite": "pcollingwood3@amazon.co.jp"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Bethena",
+            "sukunimi": "Greyes",
+            "shkpostiosoite": "bgreyesf@sourceforge.net"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Clarette",
+            "sukunimi": "Brookson",
+            "shkpostiosoite": "cbrooksona@odnoklassniki.ru"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Bernetta",
+            "sukunimi": "MacRinn",
+            "shkpostiosoite": "bmacrinnb@arizona.edu"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Jay",
+            "sukunimi": "Langridge",
+            "shkpostiosoite": "jlangridgec@timesonline.co.uk"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Simeon",
+            "sukunimi": "Meechan",
+            "shkpostiosoite": "smeechand@google.de"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Marcelo",
+            "sukunimi": "Arsmith",
+            "shkpostiosoite": "marsmith2@yolasite.com"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Pam",
+            "sukunimi": "Brookwell",
+            "shkpostiosoite": "pbrookwell1@sina.com.cn"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Goraud",
+            "sukunimi": "McPartlin",
+            "shkpostiosoite": "gmcpartlini@tuttocitta.it"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Alphonse",
+            "sukunimi": "Bilovus",
+            "shkpostiosoite": "abilovusg@thetimes.co.uk"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Jay",
+            "sukunimi": "Langridge",
+            "shkpostiosoite": "jlangridgec@timesonline.co.uk"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Pam",
+            "sukunimi": "Brookwell",
+            "shkpostiosoite": "pbrookwell1@sina.com.cn"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Pam",
+            "sukunimi": "Brookwell",
+            "shkpostiosoite": "pbrookwell1@sina.com.cn"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Tammy",
+            "sukunimi": "Lamden",
+            "shkpostiosoite": "tlamdenh@un.org"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Lotti",
+            "sukunimi": "Whiley",
+            "shkpostiosoite": "lwhiley6@livejournal.com"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Alphonse",
+            "sukunimi": "Bilovus",
+            "shkpostiosoite": "abilovusg@thetimes.co.uk"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Mariya",
+            "sukunimi": "McQuarrie",
+            "shkpostiosoite": "mmcquarrie5@theguardian.com"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Alvina",
+            "sukunimi": "Ellice",
+            "shkpostiosoite": "aellice9@nifty.com"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Bernetta",
+            "sukunimi": "MacRinn",
+            "shkpostiosoite": "bmacrinnb@arizona.edu"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Jay",
+            "sukunimi": "Langridge",
+            "shkpostiosoite": "jlangridgec@timesonline.co.uk"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Jay",
+            "sukunimi": "Langridge",
+            "shkpostiosoite": "jlangridgec@timesonline.co.uk"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Pam",
+            "sukunimi": "Brookwell",
+            "shkpostiosoite": "pbrookwell1@sina.com.cn"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Marcelo",
+            "sukunimi": "Arsmith",
+            "shkpostiosoite": "marsmith2@yolasite.com"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Rosamond",
+            "sukunimi": "Duckerin",
+            "shkpostiosoite": "rduckerin0@a8.net"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Nicola",
+            "sukunimi": "Rediers",
+            "shkpostiosoite": "nrediers7@nasa.gov"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Lorette",
+            "sukunimi": "Cordes",
+            "shkpostiosoite": "lcordese@chronoengine.com"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Chelsie",
+            "sukunimi": "Francey",
+            "shkpostiosoite": "cfranceyj@nhs.uk"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Bernetta",
+            "sukunimi": "MacRinn",
+            "shkpostiosoite": "bmacrinnb@arizona.edu"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Dorree",
+            "sukunimi": "Draye",
+            "shkpostiosoite": "ddraye4@who.int"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiHidas",
+            "ryhm": "3. Sopiva",
+            "etunimi": "Mariya",
+            "sukunimi": "McQuarrie",
+            "shkpostiosoite": "mmcquarrie5@theguardian.com"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiNopea",
+            "ryhm": "4. Nopea",
+            "etunimi": "Simeon",
+            "sukunimi": "Meechan",
+            "shkpostiosoite": "smeechand@google.de"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiNopea",
+            "ryhm": "4. Nopea",
+            "etunimi": "Lotti",
+            "sukunimi": "Whiley",
+            "shkpostiosoite": "lwhiley6@livejournal.com"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiNopea",
+            "ryhm": "4. Nopea",
+            "etunimi": "Marcelo",
+            "sukunimi": "Arsmith",
+            "shkpostiosoite": "marsmith2@yolasite.com"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiNopea",
+            "ryhm": "4. Nopea",
+            "etunimi": "Mariya",
+            "sukunimi": "McQuarrie",
+            "shkpostiosoite": "mmcquarrie5@theguardian.com"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiNopea",
+            "ryhm": "4. Nopea",
+            "etunimi": "Simeon",
+            "sukunimi": "Meechan",
+            "shkpostiosoite": "smeechand@google.de"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiNopea",
+            "ryhm": "4. Nopea",
+            "etunimi": "Nicola",
+            "sukunimi": "Rediers",
+            "shkpostiosoite": "nrediers7@nasa.gov"
+        },
+        {
+            "ryhmittely": "TavoiteVauhtiNopea",
+            "ryhm": "5. Erittäin nopea",
+            "etunimi": "Pam",
+            "sukunimi": "Brookwell",
+            "shkpostiosoite": "pbrookwell1@sina.com.cn"
+        },
+        {
+            "ryhmittely": "Vapaa valinnaiset työparit",
+            "ryhm": "",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "Ei ryhmittelyssä",
+            "ryhm": "En tee lisätehtävää",
+            "etunimi": "Mariya",
+            "sukunimi": "McQuarrie",
+            "shkpostiosoite": "mmcquarrie5@theguardian.com"
+        },
+        {
+            "ryhmittely": "Ei ryhmittelyssä",
+            "ryhm": "En tee lisätehtävää",
+            "etunimi": "Pam",
+            "sukunimi": "Brookwell",
+            "shkpostiosoite": "pbrookwell1@sina.com.cn"
+        },
+        {
+            "ryhmittely": "Ei ryhmittelyssä",
+            "ryhm": "En tee lisätehtävää",
+            "etunimi": "Delmar",
+            "sukunimi": "Bettis",
+            "shkpostiosoite": "dbettis8@shinystat.com"
+        },
+        {
+            "ryhmittely": "Ei ryhmittelyssä",
+            "ryhm": "En tee lisätehtävää",
+            "etunimi": "Mariya",
+            "sukunimi": "McQuarrie",
+            "shkpostiosoite": "mmcquarrie5@theguardian.com"
+        },
+        {
+            "ryhmittely": "Ei ryhmittelyssä",
+            "ryhm": "En tee lisätehtävää",
+            "etunimi": "Mariya",
+            "sukunimi": "McQuarrie",
+            "shkpostiosoite": "mmcquarrie5@theguardian.com"
+        },
+        {
+            "ryhmittely": "Ei ryhmittelyssä",
+            "ryhm": "En tee lisätehtävää",
+            "etunimi": "Alphonse",
+            "sukunimi": "Bilovus",
+            "shkpostiosoite": "abilovusg@thetimes.co.uk"
+        },
+        {
+            "ryhmittely": "Ei ryhmittelyssä",
+            "ryhm": "En tee lisätehtävää",
+            "etunimi": "Pam",
+            "sukunimi": "Brookwell",
+            "shkpostiosoite": "pbrookwell1@sina.com.cn"
+        },
+        {
+            "ryhmittely": "Ei ryhmittelyssä",
+            "ryhm": "En tee lisätehtävää",
+            "etunimi": "Chelsie",
+            "sukunimi": "Francey",
+            "shkpostiosoite": "cfranceyj@nhs.uk"
+        },
+        {
+            "ryhmittely": "Ei ryhmittelyssä",
+            "ryhm": "En tee lisätehtävää",
+            "etunimi": "Lotti",
+            "sukunimi": "Whiley",
+            "shkpostiosoite": "lwhiley6@livejournal.com"
+        },
+        {
+            "ryhmittely": "Ei ryhmittelyssä",
+            "ryhm": "En tee lisätehtävää",
+            "etunimi": "Clarette",
+            "sukunimi": "Brookson",
+            "shkpostiosoite": "cbrooksona@odnoklassniki.ru"
+        },
+        {
+            "ryhmittely": "Ei ryhmittelyssä",
+            "ryhm": "En tee lisätehtävää",
+            "etunimi": "Lorette",
+            "sukunimi": "Cordes",
+            "shkpostiosoite": "lcordese@chronoengine.com"
+        },
+        {
+            "ryhmittely": "Ei ryhmittelyssä",
+            "ryhm": "En tee lisätehtävää",
+            "etunimi": "Jay",
+            "sukunimi": "Langridge",
+            "shkpostiosoite": "jlangridgec@timesonline.co.uk"
+        },
+        {
+            "ryhmittely": "Ei ryhmittelyssä",
+            "ryhm": "En tee lisätehtävää",
+            "etunimi": "Chelsie",
+            "sukunimi": "Francey",
+            "shkpostiosoite": "cfranceyj@nhs.uk"
+        },
+        {
+            "ryhmittely": "Ei ryhmittelyssä",
+            "ryhm": "Haluan tehdä lisätehtävän",
+            "etunimi": "Tammy",
+            "sukunimi": "Lamden",
+            "shkpostiosoite": "tlamdenh@un.org"
+        },
+        {
+            "ryhmittely": "Ei ryhmittelyssä",
+            "ryhm": "Haluan tehdä lisätehtävän",
+            "etunimi": "Chelsie",
+            "sukunimi": "Francey",
+            "shkpostiosoite": "cfranceyj@nhs.uk"
+        },
+        {
+            "ryhmittely": "Ei ryhmittelyssä",
+            "ryhm": "Haluan tehdä lisätehtävän",
+            "etunimi": "Bethena",
+            "sukunimi": "Greyes",
+            "shkpostiosoite": "bgreyesf@sourceforge.net"
+        },
+        {
+            "ryhmittely": "Ei ryhmittelyssä",
+            "ryhm": "Haluan tehdä lisätehtävän",
+            "etunimi": "Jay",
+            "sukunimi": "Langridge",
+            "shkpostiosoite": "jlangridgec@timesonline.co.uk"
+        },
+        {
+            "ryhmittely": "Ei ryhmittelyssä",
+            "ryhm": "Haluan tehdä lisätehtävän",
+            "etunimi": "Alphonse",
+            "sukunimi": "Bilovus",
+            "shkpostiosoite": "abilovusg@thetimes.co.uk"
+        },
+        {
+            "ryhmittely": "Ei ryhmittelyssä",
+            "ryhm": "Haluan tehdä lisätehtävän",
+            "etunimi": "Patricia",
+            "sukunimi": "Collingwood",
+            "shkpostiosoite": "pcollingwood3@amazon.co.jp"
+        },
+        {
+            "ryhmittely": "Ei ryhmittelyssä",
+            "ryhm": "Haluan tehdä lisätehtävän",
+            "etunimi": "Chelsie",
+            "sukunimi": "Francey",
+            "shkpostiosoite": "cfranceyj@nhs.uk"
+        },
+        {
+            "ryhmittely": "Ei ryhmittelyssä",
+            "ryhm": "Haluan tehdä lisätehtävän",
+            "etunimi": "Chelsie",
+            "sukunimi": "Francey",
+            "shkpostiosoite": "cfranceyj@nhs.uk"
+        },
+        {
+            "ryhmittely": "Ei ryhmittelyssä",
+            "ryhm": "Haluan tehdä lisätehtävän",
+            "etunimi": "Chelsie",
+            "sukunimi": "Francey",
+            "shkpostiosoite": "cfranceyj@nhs.uk"
+        },
+        {
+            "ryhmittely": "Ei ryhmittelyssä",
+            "ryhm": "Haluan tehdä lisätehtävän",
+            "etunimi": "Delmar",
+            "sukunimi": "Bettis",
+            "shkpostiosoite": "dbettis8@shinystat.com"
+        },
+        {
+            "ryhmittely": "Ei ryhmittelyssä",
+            "ryhm": "Haluan tehdä lisätehtävän",
+            "etunimi": "Bernetta",
+            "sukunimi": "MacRinn",
+            "shkpostiosoite": "bmacrinnb@arizona.edu"
+        },
+        {
+            "ryhmittely": "Ei ryhmittelyssä",
+            "ryhm": "Testaajat ja Katselmoijat",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "Ei ryhmittelyssä",
+            "ryhm": "YksintekoLupa",
+            "etunimi": "",
+            "sukunimi": "",
+            "shkpostiosoite": ""
+        },
+        {
+            "ryhmittely": "Ei ryhmässä",
+            "ryhm": "Ei ryhmää",
+            "etunimi": "Marcelo",
+            "sukunimi": "Arsmith",
+            "shkpostiosoite": "marsmith2@yolasite.com"
+        },
+        {
+            "ryhmittely": "Ei ryhmässä",
+            "ryhm": "Ei ryhmää",
+            "etunimi": "Rosamond",
+            "sukunimi": "Duckerin",
+            "shkpostiosoite": "rduckerin0@a8.net"
+        },
+        {
+            "ryhmittely": "Ei ryhmässä",
+            "ryhm": "Ei ryhmää",
+            "etunimi": "Mariya",
+            "sukunimi": "McQuarrie",
+            "shkpostiosoite": "mmcquarrie5@theguardian.com"
+        },
+        {
+            "ryhmittely": "Ei ryhmässä",
+            "ryhm": "Ei ryhmää",
+            "etunimi": "Delmar",
+            "sukunimi": "Bettis",
+            "shkpostiosoite": "dbettis8@shinystat.com"
+        },
+        {
+            "ryhmittely": "Ei ryhmässä",
+            "ryhm": "Ei ryhmää",
+            "etunimi": "Lorette",
+            "sukunimi": "Cordes",
+            "shkpostiosoite": "lcordese@chronoengine.com"
+        },
+        {
+            "ryhmittely": "Ei ryhmässä",
+            "ryhm": "Ei ryhmää",
+            "etunimi": "Alphonse",
+            "sukunimi": "Bilovus",
+            "shkpostiosoite": "abilovusg@thetimes.co.uk"
+        },
+        {
+            "ryhmittely": "Ei ryhmässä",
+            "ryhm": "Ei ryhmää",
+            "etunimi": "Delmar",
+            "sukunimi": "Bettis",
+            "shkpostiosoite": "dbettis8@shinystat.com"
+        },
+        {
+            "ryhmittely": "Ei ryhmässä",
+            "ryhm": "Ei ryhmää",
+            "etunimi": "Rosamond",
+            "sukunimi": "Duckerin",
+            "shkpostiosoite": "rduckerin0@a8.net"
+        },
+        {
+            "ryhmittely": "Ei ryhmässä",
+            "ryhm": "Ei ryhmää",
+            "etunimi": "Chelsie",
+            "sukunimi": "Francey",
+            "shkpostiosoite": "cfranceyj@nhs.uk"
+        },
+        {
+            "ryhmittely": "Ei ryhmässä",
+            "ryhm": "Ei ryhmää",
+            "etunimi": "Goraud",
+            "sukunimi": "McPartlin",
+            "shkpostiosoite": "gmcpartlini@tuttocitta.it"
+        },
+        {
+            "ryhmittely": "Ei ryhmässä",
+            "ryhm": "Ei ryhmää",
+            "etunimi": "Tammy",
+            "sukunimi": "Lamden",
+            "shkpostiosoite": "tlamdenh@un.org"
+        },
+        {
+            "ryhmittely": "Ei ryhmässä",
+            "ryhm": "Ei ryhmää",
+            "etunimi": "Clarette",
+            "sukunimi": "Brookson",
+            "shkpostiosoite": "cbrooksona@odnoklassniki.ru"
+        }
+    ]
+]
