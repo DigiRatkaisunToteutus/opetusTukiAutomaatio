@@ -2,10 +2,19 @@ Documentation       Testataan dokumentaatiota
 '''                 testi 
 
 *** Settings ***
+Resource    ../Resources/2_2_3_1_ListaaKaikkiForumAktiviteetit.resource
 
-Resource    ../Resources/2_2_1_Valmistelu.resource
 *** Variables ***
 ${URL}    https://moodle.eoppimispalvelut.fi/
 
-
-*** Tasks ***
+*** Test Cases ***
+2_2_3_1_Listaa kaikki forum aktiviteetit
+    #Tässä ei käynyt ihan selväksi, millä tapaa kaikki piti listata, joten muodostettu niiden elementtien linkeistä lista jotka sisältävät "Yksilötehtävien"
+    Open Site
+    Sulje Virhe
+    Avaa Keskustelualueet
+    Open Site Yleiset Keskustelualueet
+    Hae Lista Keskusteluiden linkeistä
+    #Lopputuloksena saadaan listaan ${Yksilotehtavalista} kaikkien yksilötehtävien linkit joita voidaan käyttää 2_2_3_2 osiossa.
+    
+#2_2_3_2 Avaa seuraava forum
