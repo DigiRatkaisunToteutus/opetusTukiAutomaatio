@@ -1,0 +1,25 @@
+*** Settings ***
+Library    SeleniumLibrary
+
+*** Variables ***
+${URL}        file:///C:/Users/opiskelu/AppData/Local/Temp/46856b8e-353f-40e9-8144-17b6a334c99c_static_pages.zip.static_pages.zip/static_pages/2_2_4_Lataa_muut/2_2_4_1_C_Testaus%20Flip%202_%20Opiskelu_ajank%C3%A4ytt%C3%B6suunnitelman%20palautus%20-%20Arviointi%20_%20Lapinkampus%20Moodle.htm
+${BROWSER}    chrome
+
+*** Test Cases ***
+Kirjaudu Ja Avaa Ajankäyttösuunnitelma
+    Avaa Selain Moodleen
+    Odota Kirjautumista
+    Klikkaa Ajankäyttösuunnitelma Linkkiä
+    Sleep    3s
+    Close Browser
+
+*** Keywords ***
+Avaa Selain Moodleen
+    Open Browser    ${URL}    ${BROWSER}
+    Maximize Browser Window
+
+Odota Kirjautumista
+    Wait Until Page Contains    Katsaus työtiloistani    timeout=300s
+
+Klikkaa Ajankäyttösuunnitelma Linkkiä
+    Click Link    Opiskelu/ajankäyttösuunnitelman palautus
