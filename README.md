@@ -13,7 +13,9 @@ Nopeasti kasaan kyhätty rakenne joka toivottavasti tukee toimintaa riittäväst
 
 * resources
     * testauksessa tarvittavat muuttujat ja funktiot. Tänne rakennatte avainsanat joita käytätte automation kansiossa olevissa työnkuluissa. 
+
 * testdata
+    * testeissä tarvittavaa dataa, ei kommitoida. 
     * tähän kansioon laitan www-sivun lähdekoodeja tarpeen mukaan testien ladattaviksi. Koska teillä ei ole pääsyä opettjan käyttöliittymään. 
     **HUOM**: Tämä tarkoittaa sitä että robotissa ei voi oikeasti testata siirtymiä sivulta toiselle heti. On vain kirjoitettava sellainen siirtymän varmistaminen mutta se pitää laittaa kommentteihin, merkata selvästi TODO: poista kommenteista oikeaa testiä varten. Sen alapuolelle sitten sen sivun lataaminen tiedostosta, tästä hakemistosta, jonka pitäisi tulla esille tositilanteessa. 
 
