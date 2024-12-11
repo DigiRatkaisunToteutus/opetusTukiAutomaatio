@@ -20,5 +20,4 @@ ${URL}    https://moodle.eoppimispalvelut.fi/
 2_2_3_2 Avaa seuraava forum
     Avaa sivu
     Create file URL
-    Dawnload JSON File
 
