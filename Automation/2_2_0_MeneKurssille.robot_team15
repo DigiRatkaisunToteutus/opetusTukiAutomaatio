@@ -1,0 +1,20 @@
+*** Settings ***
+Library    SeleniumLibrary
+
+*** Variables ***
+${URL}    https://moodle.eoppimispalvelut.fi/my/
+${BROWSER}    chrome
+
+*** Test Cases ***
+Kirjaudu Ja Tarkista Moodle
+    Avaa Selain Moodleen
+    Odota Kirjautumista
+    Log    Kirjautuminen onnistui!
+
+*** Keywords ***
+Avaa Selain Moodleen
+    Open Browser    ${URL}    ${BROWSER}
+    Maximize Browser Window
+
+Odota Kirjautumista
+    Wait Until Page Contains    Katsaus työtiloistani    timeout=300s
