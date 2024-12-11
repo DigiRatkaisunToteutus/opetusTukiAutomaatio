@@ -9,14 +9,21 @@ Library    Process
 
 *** Variables ***
 
-${SOURCE_FILE}    C:\\Users\\heidi\\OneDrive\\Työpöytä\\koulu\\Digitaalisen ratkaisun toteutus\\opetusTukiAutomaatio\\Lataukset\\kokoArviointikirja.xlsx
-${DESTINATION_FOLDER}    C:\\Users\\heidi\\OneDrive\\Työpöytä\\koulu\\Digitaalisen ratkaisun toteutus\\opetusTukiAutomaatio\\Data
-${PYTHON_SCRIPT}    KaikkiQuizzesExeliin.py
+${FILE}    ${CURDIR}/../Lataukset/kokoArviointikirja.xlsx
+${TARGET_FILE}    ${FOLDER}/kokoArviointikirja.xlsx 
+${FOLDER}    ${CURDIR}/../Data
+${EXCEL_CMD}   excel
 
 *** Keywords ***
 2_2_2_2 Avaa ladattu exceli
 
-    # Siirretään Excel-tiedosto "Latauksista" kansioon Data
-    Move File    ${SOURCE_FILE}    ${DESTINATION_FOLDER}
+    # Tarkistetaan, että tiedosto on olemassa
+    File Should Exist    ${FILE}
 
-    Run Process    python    ${PYTHON_SCRIPT}
+    # Siirretään Excel-tiedosto "Latauksista" kansioon Data
+    Move File    ${FILE}    ${TARGET_FILE}
+
+    File Should Exist    ${TARGET_FILE}
+
+    # Avataan tiedosto Excelissä
+    Run Process    ${EXCEL_CMD}    ${TARGET_FILE}
