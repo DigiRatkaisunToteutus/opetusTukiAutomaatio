@@ -3,6 +3,7 @@ Documentation       Testataan dokumentaatiota
 
 *** Settings ***
 
+Resource    ../Resources/2_2_2_3_kopioi_ladatusta_sähköpostiosoite_ja_moduulitentit-sarakkeetu.resource
 Library    SeleniumLibrary
 
 *** Variables ***
