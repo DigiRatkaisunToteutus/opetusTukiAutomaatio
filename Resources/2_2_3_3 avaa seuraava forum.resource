@@ -20,8 +20,3 @@ Create File URL
     ${url}=    Set Variable    file://${file_path}
     RETURN    ${url}
 
-Download JSON File
-    Sleep                5
-    Click Element        id=downloadtype_dataformat
-    Click Element        //*[contains(text(),'Javascript Object Notation')]
-
