@@ -3,12 +3,20 @@ Documentation       Testataan dokumentaatiota
 
 *** Settings ***
 
-Resource    ../Resources/2_2_2_3_kopioi_ladatusta_sähköpostiosoite_ja_moduulitentit-sarakkeetu.resource
 Library    SeleniumLibrary
+Library    OperatingSystem
+Library    Process
 
 *** Variables ***
-${URL}    https://moodle.eoppimispalvelut.fi/
+
+${SOURCE_FILE}    C:\\Users\\heidi\\OneDrive\\Työpöytä\\koulu\\Digitaalisen ratkaisun toteutus\\opetusTukiAutomaatio\\Lataukset\\kokoArviointikirja.xlsx
+${DESTINATION_FOLDER}    C:\\Users\\heidi\\OneDrive\\Työpöytä\\koulu\\Digitaalisen ratkaisun toteutus\\opetusTukiAutomaatio\\Data
+${PYTHON_SCRIPT}    KaikkiQuizzesExeliin.py
 
 *** Keywords ***
 2_2_2_2 Avaa ladattu exceli
-    Log    Done.
+
+    # Siirretään Excel-tiedosto "Latauksista" kansioon Data
+    Move File    ${SOURCE_FILE}    ${DESTINATION_FOLDER}
+
+    Run Process    python    ${PYTHON_SCRIPT}

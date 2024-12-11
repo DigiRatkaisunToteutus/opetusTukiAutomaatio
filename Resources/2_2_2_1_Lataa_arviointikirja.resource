@@ -8,12 +8,12 @@ Library    OperatingSystem
 Library    Collections
 
 *** Variables ***
-${PAGE_1_URL}    file:///C:/Users/heidi/AppData/Local/Temp/4df1f160-9a64-4ef4-823b-b442d8356d26_static_pages.zip.static_pages.zip/static_pages/2_2_2_A_Quiz-Teht%C3%A4v%C3%A4t/2_2_2_1_a_Kurssi_%20Testaus%20Flip%202%20_%20Lapinkampus%20Moodle.htm
-${PAGE_2_URL}    file:///C:/Users/heidi/AppData/Local/Temp/8c985fe7-ffd6-4298-a30f-597e965a1484_static_pages.zip.static_pages.zip/static_pages/2_2_2_A_Quiz-Teht%C3%A4v%C3%A4t/2_2_2_1_b_Arvioijan%20raportti%20_%20Testaus%20Flip%202%20_%20Lapinkampus%20Moodle.htm
-${PAGE_3_URL}    file:///C:/Users/heidi/AppData/Local/Temp/efdc479a-c759-4d9f-bc50-75c52b800665_static_pages.zip.static_pages.zip/static_pages/2_2_2_A_Quiz-Teht%C3%A4v%C3%A4t/2_2_2_1_c_Vie%20muotoon%20OpenDocument-taulukko%20_%20Testaus%20Flip%202%20_%20Lapinkampus%20Moodle.htm
+${PAGE_1_URL}    file:///${CURDIR}/../static_pages/2_2_2_A_Quiz-Tehtävät/2_2_2_1_a_Kurssi_ Testaus Flip 2 _ Lapinkampus Moodle.htm
+${PAGE_2_URL}    file:///${CURDIR}/../static_pages/2_2_2_A_Quiz-Tehtävät/2_2_2_1_b_Arvioijan raportti _ Testaus Flip 2 _ Lapinkampus Moodle.htm
+${PAGE_3_URL}    file:///${CURDIR}/../static_pages/2_2_2_A_Quiz-Tehtävät/2_2_2_1_c_Vie muotoon OpenDocument-taulukko _ Testaus Flip 2 _ Lapinkampus Moodle.htm
 ${BROWSER}    Chrome
-${SOURCE_FILE}   C:\\Users\\heidi\\OneDrive\\Työpöytä\\koulu\\Digitaalisen ratkaisun toteutus\\opetusTukiAutomaatio\\Testdata\\kokoArviointikirja.xlsx
-${DESTINATION_FOLDER}    C:\\Users\\heidi\\OneDrive\\Työpöytä\\koulu\\Digitaalisen ratkaisun toteutus\\opetusTukiAutomaatio\\Lataukset
+${SOURCE_FILE}   ${CURDIR}/../Testdata/kokoArviointikirja.xlsx
+${DESTINATION_FOLDER}    ${CURDIR}/../Lataukset
 
 
 *** Keywords ***
