@@ -3,9 +3,11 @@ Documentation       Testataan dokumentaatiota
 
 *** Settings ***
 
-Resource    ../Resources/2_2_1_Valmistelu.resource
+Library    SeleniumLibrary
+
 *** Variables ***
 ${URL}    https://moodle.eoppimispalvelut.fi/
 
-
-*** Tasks ***
+*** Keywords ***
+2_2_2_2 Avaa ladattu exceli
+    Log    Done.
