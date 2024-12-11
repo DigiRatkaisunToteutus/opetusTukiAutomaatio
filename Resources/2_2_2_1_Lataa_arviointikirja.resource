@@ -19,13 +19,21 @@ ${DESTINATION_FOLDER}    ${CURDIR}/../Lataukset
 *** Keywords ***
 2_2_2_1 Lataa arviointikirja
     Open Browser    ${PAGE_1_URL}    ${BROWSER}    options=add_argument("--allow-file-access-from-files")
-    Maximize Browser Window
+
+    # Suljetaan pop up -ikkuna, joka jostain syystä ilmestyy ruutuun
+    Wait Until Element Is Enabled    xpath=//button[@id='yui_3_17_2_1_1733932247819_382']    timeout=15s
+
+    Execute JavaScript    document.querySelector("button#yui_3_17_2_1_1733932247819_382").click()
+
+    Click Element    xpath=//button[@id='yui_3_17_2_1_1733932247819_382']
+
+    Wait Until Element Is Not Visible    xpath=//button[@id='yui_3_17_2_1_1733932247819_382']
 
     # Odota, että "Arvioinnit" on näkyvissä ja interaktiivinen
-    Wait Until Element Is Visible    xpath=//a[normalize-space(text())='Arvioinnit']    timeout=15s
-
+    Wait Until Element Is Visible    xpath=//a[@role='menuitem' and @class='nav-link' and text()='Arvioinnit']    timeout=15s
+    
     # Klikkaa "Arvioinnit"-linkkiä
-    Click Element    xpath=//a[normalize-space(text())='Arvioinnit']
+    Click Element    xpath=//a[@role='menuitem' and @class='nav-link' and text()='Arvioinnit']
 
     # Siirry toiselle sivulle
     Go To    ${PAGE_2_URL}
