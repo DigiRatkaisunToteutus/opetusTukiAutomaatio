@@ -5,7 +5,7 @@ Library    OperatingSystem
 Library    BuiltIn
 
 *** Variables ***
-${EXCEL_FILE}    ${CURDIR}C:\Users\kahar\Git_harjoitus\projekti\opetusTukiAutomaatio\Resources
+${EXCEL_FILE}    ${CURDIR}..\Resorces\allDiscussions.xlsx
 
 *** Keywords ***
 Avaa Excel
