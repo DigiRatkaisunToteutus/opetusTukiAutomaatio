@@ -5,7 +5,7 @@ Library    OperatingSystem
 Library    BuiltIn
 
 *** Variables ***
-${EXCEL_FILE}    ${CURDIR}..\Resorces\allDiscussions.xlsx
+${EXCEL_FILE}    ${CURDIR}..\Resources\allDiscussions.xlsx
 
 *** Keywords ***
 Avaa Excel
