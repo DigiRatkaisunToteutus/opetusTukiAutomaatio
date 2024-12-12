@@ -16,6 +16,7 @@ testrun/*
 .~lock*
 *.pkl
 Static_pages/
+static_pages/
 googleSivu/
 Testdata/
 *.html
