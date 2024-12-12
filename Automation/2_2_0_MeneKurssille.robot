@@ -3,14 +3,14 @@ Documentation       Testataan dokumentaatiota
 
 *** Settings ***
 
-Resource    ../Resources/2_2_0_MeneKurssille.resource
+Resource    ../Resources/2_2_0_4_Klikkaa_kurssin_nimeä.resource
 *** Variables ***
 ${URL}    https://moodle.eoppimispalvelut.fi/
 
 
 *** Tasks ***
 2_2_0 Mene kurssisivulle
-    2_2_0_1 Kirjaudu moodleen
-    2_2_0_2 Näytä kaikki kurssit
-    2_2_0_3 Etsi kurssi 
+#    2_2_0_1 Kirjaudu moodleen
+#    2_2_0_2 Näytä kaikki kurssit
+#    2_2_0_3 Etsi kurssi 
     2_2_0_4 Klikkaa kurssin nimeä

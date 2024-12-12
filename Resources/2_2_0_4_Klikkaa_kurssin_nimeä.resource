@@ -9,5 +9,5 @@ ${URL}    https://moodle.eoppimispalvelut.fi/
 
 
 *** Keywords ***
-2_2_2_3 kopioi ladatusta sähköpostiosoite ja moduulitentit-sarakkeet
+2_2_0_4 Klikkaa kurssin nimeä
     Log    Done.
