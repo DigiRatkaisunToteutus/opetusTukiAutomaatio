@@ -2,7 +2,7 @@
 Library    SeleniumLibrary
 
 *** Variables ***
-${URL}           https://moodle.eoppimispalvelut.fi
+ 2${URL}           https://moodle.eoppimispalvelut.fi
 ${SEARCH_TERM}   Digitaalisen ratkaisun toteutus - T42T165OJ-3003
 ${OUTPUT_DIR}    ./results
 
