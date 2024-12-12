@@ -21,16 +21,14 @@ ${DESTINATION_FOLDER}    ${CURDIR}/../Lataukset
     Open Browser    ${PAGE_1_URL}    ${BROWSER}    options=add_argument("--allow-file-access-from-files")
 
     # Suljetaan pop up -ikkuna, joka jostain syystä ilmestyy ruutuun
-    Wait Until Element Is Enabled    xpath=//button[@id='yui_3_17_2_1_1733932247819_382']    timeout=15s
-
-    Execute JavaScript    document.querySelector("button#yui_3_17_2_1_1733932247819_382").click()
-
-    Click Element    xpath=//button[@id='yui_3_17_2_1_1733932247819_382']
-
-    Wait Until Element Is Not Visible    xpath=//button[@id='yui_3_17_2_1_1733932247819_382']
+    Wait Until Element Is Enabled    xpath=//button[starts-with(@id, 'yui_3_17_2_1_') and contains(@class, 'yui3-button closebutton') and @title='Sulje']    timeout=20s
+    
+    # Pitää lisätä JavaScript, koska pop up on dynaaminen ja xpath ei käy identifioimaan Sulje-painiketta
+    Execute JavaScript    document.querySelector('.yui3-widget-mask').style.display = 'none';    # Yritetty poistaa päällekkäiset elementit
+    Execute JavaScript    document.querySelector('button[title="Sulje"]:first-of-type').click();    # Tämän pitäisi klikata sitä painiketta, joka sattuu olemaan päällimmäisenä
 
     # Odota, että "Arvioinnit" on näkyvissä ja interaktiivinen
-    Wait Until Element Is Visible    xpath=//a[@role='menuitem' and @class='nav-link' and text()='Arvioinnit']    timeout=15s
+    Wait Until Element Is Enabled    xpath=//a[@role='menuitem' and @class='nav-link' and text()='Arvioinnit']    timeout=15s
     
     # Klikkaa "Arvioinnit"-linkkiä
     Click Element    xpath=//a[@role='menuitem' and @class='nav-link' and text()='Arvioinnit']

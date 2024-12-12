@@ -5,10 +5,13 @@ Documentation       Testataan dokumentaatiota
 
 Resource    ../Resources/2_2_2_1_Lataa_arviointikirja.resource
 Resource    ../Resources/2_2_2_2_Avaa_ladattu_exceli.resource
+
 *** Variables ***
 ${PAGE_1_URL}    file:///${CURDIR}/../static_pages/2_2_2_A_Quiz-Tehtävät/2_2_2_1_a_Kurssi_ Testaus Flip 2 _ Lapinkampus Moodle.htm
 ${PAGE_2_URL}    file:///${CURDIR}/../static_pages/2_2_2_A_Quiz-Tehtävät/2_2_2_1_b_Arvioijan raportti _ Testaus Flip 2 _ Lapinkampus Moodle.htm
 ${PAGE_3_URL}    file:///${CURDIR}/../static_pages/2_2_2_A_Quiz-Tehtävät/2_2_2_1_c_Vie muotoon OpenDocument-taulukko _ Testaus Flip 2 _ Lapinkampus Moodle.htm
+
+
 *** Tasks ***
 2_2_2_A Quiz- Tehtävien lataaminen PAREMPI VAIHTOEHTO
     2_2_2_1 Lataa arviointikirja
