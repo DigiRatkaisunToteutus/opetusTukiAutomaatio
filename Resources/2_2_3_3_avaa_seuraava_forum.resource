@@ -14,6 +14,7 @@ Avaa sivu
     ${ABSOLUTE PATH}=    Evaluate    os.path.abspath(os.path.join(r'${CURDIR}', r'${RELATIVE PATH}'))    modules=os
     ${FILE URL}=         Luo tiedosto URL    ${ABSOLUTE PATH}
     Open Browser    ${FILE URL}
+    [Teardown]    Close Browser
 
 Luo tiedosto URL
 # Create File URL
