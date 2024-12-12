@@ -12,10 +12,11 @@ ${RELATIVE PATH}        ../Static_pages/2_2_3 Keskusteluryhm/2_2_3_3 _A_3. Yksil
 
 Avaa sivu
     ${ABSOLUTE PATH}=    Evaluate    os.path.abspath(os.path.join(r'${CURDIR}', r'${RELATIVE PATH}'))    modules=os
-    ${FILE URL}=         Create File URL    ${ABSOLUTE PATH}
+    ${FILE URL}=         Luo tiedosto URL    ${ABSOLUTE PATH}
     Open Browser    ${FILE URL}
 
-Create File URL
+Luo tiedosto URL
+# Create File URL
     [Arguments]    ${file_path}
     ${url}=    Set Variable    file://${file_path}
     RETURN    ${url}

@@ -3,7 +3,7 @@ Documentation       Testataan dokumentaatiota
 
 *** Settings ***
 Resource    ../Resources/2_2_3_1_ListaaKaikkiForumAktiviteetit.resource
-Resource    ../Resources/2_2_3_3 avaa seuraava forum.resource
+Resource    ../Resources/2_2_3_3_avaa_seuraava_forum.resource
 *** Variables ***
 ${URL}    https://moodle.eoppimispalvelut.fi/
 
@@ -19,5 +19,6 @@ ${URL}    https://moodle.eoppimispalvelut.fi/
     
 2_2_3_2 Avaa seuraava forum
     Avaa sivu
-    Create file URL
+    Luo tiedosto URL    ../Static_pages/2_2_3 Keskusteluryhm/2_2_3_3 _A_3. Yksilötehtävien kommentointi_keskustelu- foorumi _ Lapinkampus Moodle.htm
+    #Create file URL
 
