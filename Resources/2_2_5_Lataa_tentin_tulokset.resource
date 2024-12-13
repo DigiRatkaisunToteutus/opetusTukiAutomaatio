@@ -12,8 +12,9 @@ Avaa selain
 Etsi tentti
     ## Wait Until Element Is Visible    xpath://div[@id="coursecontentsection10"]
     ## Scroll Element Into View    xpath=//a[text()='Tentti']
-    Wait Until Element Is Visible  xpath=//a[@role='button' and @href='#coursecontentcollapse10']   30s
-    Click Element    	 xpath=//a[@role='button' and @href='#coursecontentcollapse10']
+    Wait Until Page Contains Element    xpath=//a[@href='https://testimoodle.eoppimispalvelut.fi/mod/assign/view.php?id=22406']    timeout=10
+    #Wait Until Element Is Visible  xpath=//a[@role='button' and @href='#coursecontentcollapse10']   30s
+    Click Element    xpath=//a[@href='https://testimoodle.eoppimispalvelut.fi/mod/assign/view.php?id=22406']
 Avaa tentti
      ##Click Element    xpath=//a[text()='Tentti']
     ## Click Element    xpath=//a[text()='Lopputentti']
@@ -40,15 +41,17 @@ Paina nappia tulokset
    ##Click Element    id=yui_3_17_2_1_1733675148395_166 Element    xpath=//a[@href='https://testimoodle.eoppimispalvelut.fi/mod/quiz/report.php?id=23509&amp;mode=overview']
     Click Element      xpath=//a[text()='Tulokset']
 Tiedot exceliin
+     Open Browser    file:///C:/Users/caisa/gitrepot/opetusTukiAutomaatio/static_pages/2_2_5_Lataa_tentti/2_2_5_1_D_Lopputentti%2030%20_%20arvosanasta%20_%20Lapinkampus%20Moodle.htm   chrome
+    ## Click Element   xpath=//a[text()='Pilkulla erotetut'
+    Select From List By Value     id=downloadtype_download excel
 
-     Click Element   xpath=//a[text()='Pilkulla erotetut'
-
-     Click Element   xpath=//a[text()='Microsoft Excel'
+    ## Click Element   xpath=//a[text()='Microsoft Excel'
    
 Näytä raportti
-   Click Element   xpath=//a[text()='Näytä raportti'
+   Open Browser    file:///C:/Users/caisa/gitrepot/opetusTukiAutomaatio/static_pages/2_2_5_Lataa_tentti/2_2_5_1_C_Lopputentti%2030%20_%20arvosanasta%20_%20Lapinkampus%20Moodle.htm   chrome
+   Click Element   Click Element id=id_submitbutton
 Lataa
-   Click Button    xpath=//a[text()='Lataa'
+  Click Element   xpath=//button[text()='Lataa']
 
 
 
