@@ -19,45 +19,42 @@ ${DESTINATION_FOLDER}    ${CURDIR}/../Lataukset
 *** Keywords ***
 2_2_2_1 Lataa arviointikirja
     Open Browser    ${PAGE_1_URL}    ${BROWSER}    options=add_argument("--allow-file-access-from-files")
+    Maximize Browser Window
 
-    # Suljetaan pop up -ikkuna, joka jostain syystä ilmestyy ruutuun
-    Wait Until Element Is Enabled    xpath=//button[starts-with(@id, 'yui_3_17_2_1_') and contains(@class, 'yui3-button closebutton') and @title='Sulje']    timeout=20s
-    
-    # Pitää lisätä JavaScript, koska pop up on dynaaminen ja xpath ei käy identifioimaan Sulje-painiketta
+    Sleep    5s
+
     Execute JavaScript    document.querySelector('.yui3-widget-mask').style.display = 'none';    # Yritetty poistaa päällekkäiset elementit
-    Execute JavaScript    document.querySelector('button[title="Sulje"]:first-of-type').click();    # Tämän pitäisi klikata sitä painiketta, joka sattuu olemaan päällimmäisenä
 
     # Odota, että "Arvioinnit" on näkyvissä ja interaktiivinen
-    Wait Until Element Is Enabled    xpath=//a[@role='menuitem' and @class='nav-link' and text()='Arvioinnit']    timeout=15s
+    Wait Until Element Is Enabled    xpath=//a[@role='menuitem' and contains(@class, 'nav-link') and normalize-space(text())='Arvioinnit']    timeout=15s
     
     # Klikkaa "Arvioinnit"-linkkiä
-    Click Element    xpath=//a[@role='menuitem' and @class='nav-link' and text()='Arvioinnit']
+    Click Element    xpath=//a[@role='menuitem' and contains(@class, 'nav-link') and normalize-space(text())='Arvioinnit']
 
     # Siirry toiselle sivulle
     Go To    ${PAGE_2_URL}
     Maximize Browser Window
 
     # Odota, että alasvetovalikko on näkyvissä ja elementti on klikkattavissa
-    Wait Until Element Is Visible    xpath=//li[@id='select-menu-option674f1e4aec51723']    timeout=10s
+    Wait Until Element Is Visible    xpath=//div[contains(@class, 'btn dropdown-toggle') and normalize-space(text())='Arvioijan raportti']    timeout=10s
 
-    # Klikkaa "Vie"-elementti, joka löytyy ID:n perusteella
+    Click Element    xpath=//div[contains(@class, 'btn dropdown-toggle') and normalize-space(text())='Arvioijan raportti']
+
+    # Klikkaa "Vie"-elementti
     Click Element    xpath=//li[@id='select-menu-option674f1e4aec51723']
 
     # Siirry uudelle sivulle
     Go To    ${PAGE_3_URL}
     Maximize Browser Window
 
-    # Odota, että alasvetovalikko on näkyvissä ja elementti on klikkattavissa
-    Wait Until Element Is Visible    xpath=//li[@id='select-menu-option674f1e6656bb127']    timeout=10s
+    # Skrollataan Lataa-painike näkyviin
+    Scroll Element Into View    xpath=//input[@type='submit' and @value='Lataa']
 
-    # Klikkaa "Excel-taulukko"-elementti, joka löytyy ID:n perusteella
-    Click Element    xpath=//li[@id='select-menu-option674f1e6656bb127']
-
-    # Odota, että painike on näkyvissä ja interaktiivinen
-    Wait Until Element Is Visible    id=id_submitbutton    timeout=15s
+    # Odotetaan, että joku ruutuun ilmestyvä teksti katoaa
+    Wait Until Element Is Not Visible    xpath=//div[@id='MathJax_Message']    timeout=10s
 
     # Klikkaa Lataa-painiketta
-    Click Element    id=id_submitbutton
+    Click Element    xpath=//input[@type='submit' and @value='Lataa']
 
     # Hae Excel-tiedosto oikeasta sijainnista (koska painikkeesta ei oikeasti tapahdu mitään) ja kopioi se uuteen sijaintiin
     Copy File    ${SOURCE_FILE}    ${DESTINATION_FOLDER}
