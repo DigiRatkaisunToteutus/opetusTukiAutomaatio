@@ -18,3 +18,8 @@ testrun/*
 Static_pages/
 googleSivu/
 Testdata/
+*.html
+*.htm
+*.xml
+data
+
