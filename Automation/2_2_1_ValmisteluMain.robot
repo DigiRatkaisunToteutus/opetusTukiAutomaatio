@@ -5,6 +5,7 @@ Library     OperatingSystem
 Resource    ../Resources/2_2_1_Valmistelu.resource
 Resource    ../Resources/2_2_1_2_Osallistujayhteenveto.resource
 Resource    ../Resources/2_2_1_4_Python_koodin_ajo.resource
+Resource    ../Resources/2_2_1_6_kopioi_tiedot_arviointityökirjaan_ryhmien_tiedot-välilehdelle.resource
 
 *** Variables ***
 ${URL}   https://moodle.eoppimispalvelut.fi/login/index.php
@@ -24,5 +25,7 @@ ${URL}   https://moodle.eoppimispalvelut.fi/login/index.php
     Python koodin ajo
 
 #    2_2_1_5 poista output.xls turhat sarakkeet
-#    2_2_1_6 kopioi tiedot arviointityökirjaan ryhmien tiedot-välilehdelle
+2_2_1_6 kopioi tiedot arviointityökirjaan ryhmien tiedot-välilehdelle
+    Python koodin ajo
+
 #    2_2_1_7 Vie sähköpostiosoitteet välilehdille "RyhmäOsioArviointi" ja "KOONTI"
