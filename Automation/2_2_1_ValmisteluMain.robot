@@ -26,6 +26,6 @@ ${URL}   https://moodle.eoppimispalvelut.fi/login/index.php
 
 #    2_2_1_5 poista output.xls turhat sarakkeet
 2_2_1_6 kopioi tiedot arviointityökirjaan ryhmien tiedot-välilehdelle
-    Python koodin ajo
+    Move Data Using Python Script
 
 #    2_2_1_7 Vie sähköpostiosoitteet välilehdille "RyhmäOsioArviointi" ja "KOONTI"
