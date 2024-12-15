@@ -1,7 +1,8 @@
-Documentation       TÄMÄ EI TOIMI
+# 2_2_1_5_Poista_output_turhat_sarakkeet.resource
+Documentation       Tämä demottu opettajan kanssa
 
 *** Settings ***
-Library    /Resources/turhatpois.py
+Library    /Resources/2_2_1_5_Poista_output_turhat_sarakkeet.py
 
 *** Variables ***
 ${EXCEL_FILE}     Data/Data-orig.xlsx
@@ -12,5 +13,5 @@ ${OUTPUT_FILE}    Data/Data-clean.xlsx
 Delete Column From Excel
     ${result}=    delete_column    ${EXCEL_FILE}    ${COLUMN}    ${OUTPUT_FILE}
     Should Contain    ${result}    Column C deleted and saved to ${OUTPUT_FILE}
-    Log    You made it girl!
+
 

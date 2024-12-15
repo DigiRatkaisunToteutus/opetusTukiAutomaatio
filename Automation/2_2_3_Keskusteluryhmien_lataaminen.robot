@@ -18,3 +18,7 @@ ${URL}    https://moodle.eoppimispalvelut.fi/
     #Lopputuloksena saadaan listaan ${Yksilotehtavalista} kaikkien yksilötehtävien linkit joita voidaan käyttää 2_2_3_2 osiossa.
     
 #2_2_3_2 Avaa seuraava forum
+
+2_2_3_7_Nimeä_ladattu_juoksevalla_numerolla
+    #Resourses ei saatu toimimaan, python ja robot toimivat
+    Rename Downloads JSON Files

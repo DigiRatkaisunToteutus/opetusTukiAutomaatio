@@ -24,7 +24,9 @@ ${URL}   https://moodle.eoppimispalvelut.fi/login/index.php
 2_2_1_4 aja createExcelForGrading.py ja anna parametriksi ladatun tiedoston nimi
     Python koodin ajo
 
-#    2_2_1_5 poista output.xls turhat sarakkeet
+2_2_1_5 poista output.xls turhat sarakkeet
+    Delete Column From Excel
+
 2_2_1_6 kopioi tiedot arviointityökirjaan ryhmien tiedot-välilehdelle
     Move Data Using Python Script
 

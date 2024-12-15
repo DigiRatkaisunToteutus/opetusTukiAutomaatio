@@ -1,7 +1,7 @@
 *** Settings ***
-Library    ../Resources/check_and_rename.py
+Library    ../Resources/2_2_3_7_Nimeä_ladattu_juoksevalla_numerolla.py
 
-*** Test Cases ***
+*** Tasks ***
 Rename Downloads JSON Files
     [Documentation]    Tämä testaa JSON-tiedostojen uudelleennimeämistä lisäämällä numeroinnin alkuun.
     ${result}=    manage_json_files_in_downloads
