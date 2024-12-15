@@ -8,7 +8,7 @@ Library    SeleniumLibrary
 ${URL}     https://moodle.eoppimispalvelut.fi/
 
 *** Keywords ***
-Kirjaudu moodleen
+2_2_0_1 Kirjaudu moodleen
     log  done.
 #    Open Browser    ${URL}    chrome
 #    Title Should Be    Kirjaudu sivustoon | Lapinkampus Moodle

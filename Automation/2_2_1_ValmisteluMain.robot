@@ -11,8 +11,7 @@ ${URL}   https://moodle.eoppimispalvelut.fi/login/index.php
 
 *** Test Cases ***
 2_2_1_1 Kirjaudu Moodleen
-    Kirjaudu Moodleen
-    
+     2_2_0_1 Kirjaudu moodleen 
 2_2_1_2 Hae kurssin osallistujayhteenveto
     Open Site
     Choose Groups Summary
